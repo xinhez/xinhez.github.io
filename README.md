@@ -1,7 +1,5 @@
 I am a PhD Candidate at the Harvard John A. Paulson School of Engineering and Applied Sciences. I am interested in integrating artificial intelligence and biology, with a focus on stem cell research. I received bachelor and master's degrees in Electrical and Computer Engineering from Carnegie Mellon University. 
 
-Email: `xinhezhang [at] g.harvard.edu`
-
 ## Research:
 ### Stem cell
 - Liu, R.#, Ren, Z.#, **Zhang, X.#**, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N. and Liu, J., 2024. An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation. bioRxiv, pp.2024-12.
