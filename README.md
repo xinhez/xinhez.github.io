@@ -10,7 +10,7 @@ I am a PhD Candidate at Harvard University. I am currently working on integratin
 - Li, Q.#, Liu, R.#, Lin, Z.#, **Zhang, X.#**, Silva, I.G., Pollock, S.D., Alvarez-Dominguez, J.R. and Liu, J., 2024. [Cyborg islets: implanted flexible electronics reveal principles of human islet electrical maturation](https://www.biorxiv.org/content/10.1101/2024.03.18.585551v1). bioRxiv, pp.2024-03.
 
 ### Brain-Machine Interfaces
-- **Zhang, X.**, Shen, H., Zhang, Y., Marin-Llobet, A., Du, J., He, Y, Ding, J, Li, N, Liu, J, 2024, November. [Decoding brain intrinsic dynamics for NeuroAI](https://n4solutionsllc.com/brain-program-book/). NIH BRAIN NeuroAI Workshop, ***Early-Career Scholar Best Poster Award Runner-Up.***
+- **Zhang, X.**, Shen, H., Zhang, Y., Marin-Llobet, A., Du, J., He, Y., Ding, J., Li, N., Liu, J., 2024, November. [Decoding brain intrinsic dynamics for NeuroAI](https://n4solutionsllc.com/brain-program-book/). NIH BRAIN NeuroAI Workshop, ***Early-Career Scholar Best Poster Award Runner-Up.***
 - Liu, R., **Zhang, X.**, Sheng, H. and Liu, J., 2024, December. [In Vivo Neural Stimulation and Recording using Flexible Bioelectronics](https://ieeexplore.ieee.org/document/10873414). In 2024 IEEE International Electron Devices Meeting (IEDM) (pp. 1-4). IEEE.
 - Zhao, S.#, Shen, H.#, Qin, S., Jiang, S., Tang, X., Lee, M., **Zhang, X.**, Lee, J., Chen, J. and Liu, J., 2024. [Realigning representational drift in mouse visual cortex by flexible brain-machine interfaces](https://www.biorxiv.org/content/10.1101/2024.05.23.595627v1). bioRxiv, pp.2024-05.
 
