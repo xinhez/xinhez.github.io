@@ -54,13 +54,13 @@ I am a PhD Candidate at the Harvard John A. Paulson School of Engineering and Ap
 
 # Industry
 
-## Entrepreneurship
+### Entrepreneurship
 - 2017-2019, Talent Pool, Startup Co-Founder
 
-## Healthcare
+### Healthcare
 - Summer 2019, Guangdong Sanjiu Brain Hospital, Tech Intern
 
-## Product Development and Marketing
+### Product Development and Marketing
 - 2021, JPMorgan Chase & Co. Software Engineer
 - 2018-2019, Duolingo, Android Developer
 - Fall 2018, Expii, Engineer Intern
