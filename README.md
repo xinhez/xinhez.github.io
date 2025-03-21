@@ -1,4 +1,4 @@
-I am a PhD Candidate at the Harvard John A. Paulson School of Engineering and Applied Sciences. I am interested in integrating artificial intelligence and biology, with a focus on stem cell research. I received bachelor and master's degrees in Electrical and Computer Engineering from Carnegie Mellon University. 
+I am a PhD Candidate at Harvard University. I am currently working on integrating artificial intelligence and biology, with a focus on stem cell research. 
 
 
 # Academia
@@ -22,6 +22,10 @@ I am a PhD Candidate at the Harvard John A. Paulson School of Engineering and Ap
 - Lin, Z.#, Marin-Llobet, A.#, Baek, J., He, Y., Lee, J., Wang, W., **Zhang, X.**, Lee, A.J., Liang, N., Du, J. and Ding, J., 2025. [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1). bioRxiv, pp.2025-02.
 - Bu, T.#, **Zhang, X.#**, Mertz, C. and Dolan, J.M., 2021, September. [Carla simulated data for rare road object detection](https://ieeexplore.ieee.org/document/9564932). In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC) (pp. 2794-2801). IEEE.
 
+## Education
+- 2021-2024, *Master of Science*, Engineering Sciences, Harvard University
+- 2019-2020, *Master of Science*, Electrical and Computer Engineering, Carnegie Mellon University
+- 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering, Carnegie Mellon University, ***with University and College Honors***
 
 ## Teaching
 ### Guest Lecturer, Harvard University
