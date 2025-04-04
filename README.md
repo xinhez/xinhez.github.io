@@ -1,5 +1,6 @@
 I am a PhD Candidate at Harvard University. I am currently working on integrating artificial intelligence and biology, with a focus on stem cell research. 
 
+---
 
 # Academia
 
@@ -22,8 +23,6 @@ I am a PhD Candidate at Harvard University. I am currently working on integratin
 - Bu, T.#, **Zhang, X.#**, Mertz, C. and Dolan, J.M., 2021, September. [Carla simulated data for rare road object detection](https://ieeexplore.ieee.org/document/9564932). In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC) (pp. 2794-2801). IEEE.
 - Lin, Z.#, Marin-Llobet, A.#, Baek, J., He, Y., Lee, J., Wang, W., **Zhang, X.**, Lee, A.J., Liang, N., Du, J., Ding, J., Li, N. and Liu. J., 2025. [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1). bioRxiv, pp.2025-02.
 - Lin, Z.#, Wang, W.#, Arnau Marin-Llobet, Li, Q., Pollock, S.D., Sui, X., Almir Aljovic, Lee, J., Baek, J., Liang, N., **Zhang, X.**, Wang, C.K., Huang, J., Liu, M., Gao, Z., Sheng, H., Du, J., Lee, S.J., Wang, B., He, Y., Ding, J., Wang, X., Alvarez-Dominguez, J.R.* and Liu, J.*, 2025. [Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo](https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1). bioRxiv, pp.2025-04.
-
-‌
 
 ## Education
 - 2021-2024, *Master of Science*, Engineering Sciences, Harvard University
