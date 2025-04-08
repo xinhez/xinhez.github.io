@@ -1,10 +1,12 @@
-_I am a PhD Candidate at Harvard University. I am currently working on integrating artificial intelligence and biology, with a focus on stem cell research._
+_I am a PhD candidate at Harvard University, conducting research at the intersection of artificial intelligence and biology, focusing on stem cell systems, brain-machine interfaces, and bio-inspired computing. Previously, I worked as a developer with a strong emphasis on product development and marketing analysis at leading tech companies and startups. Looking ahead, I aim to push the frontiers of bio-AI integration and drive translational impact through technologies that bridge scientific discovery and real-world application._
 
 [Connect with me](https://www.linkedin.com/in/xinhez/)
 
 ---
 
+
 # Academia
+> I learn what it takes to solve the problems I care about.
 
 ## Research
 
@@ -54,14 +56,15 @@ _I am a PhD Candidate at Harvard University. I am currently working on integrati
 ### Tutoring,  Carnegie Mellon University
 - 2015-2020, College Reading and Learning Association Certified Level 2 Advanced Tutor
 
-
 ## Mentorship
 - 2022-2024, First-Year Advisor, Harvard University
 - 2020, Academic Peer Advisor, Carnegie Mellon University
 
 ---
 
+
 # Industry
+> I learn fast and navigate across challenges, big or small.
 
 ### Entrepreneurship
 - 2017-2019, Talent Pool, Startup Co-Founder
