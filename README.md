@@ -2,8 +2,7 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 
 [Connect with me](https://www.linkedin.com/in/xinhez/)
 
----
-
+* * *
 
 # Academia
 > I learn what it takes to solve the problems I care about.
@@ -61,8 +60,7 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 - 2022-2024, First-Year Advisor, Harvard University
 - 2020, Academic Peer Advisor, Carnegie Mellon University
 
----
-
+* * *
 
 # Industry
 > I learn fast and navigate across challenges, big or small.
