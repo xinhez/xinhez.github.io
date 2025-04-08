@@ -1,4 +1,4 @@
-I am a PhD Candidate at Harvard University. I am currently working on integrating artificial intelligence and biology, with a focus on stem cell research. 
+_I am a PhD Candidate at Harvard University. I am currently working on integrating artificial intelligence and biology, with a focus on stem cell research._
 
 [Connect with me](https://www.linkedin.com/in/xinhez/)
 
