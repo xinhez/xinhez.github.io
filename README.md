@@ -29,6 +29,7 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 - Lin, Z.#, Wang, W.#, Arnau Marin-Llobet, Li, Q., Pollock, S.D., Sui, X., Almir Aljovic, Lee, J., Baek, J., Liang, N., **Zhang, X.**, Wang, C.K., Huang, J., Liu, M., Gao, Z., Sheng, H., Du, J., Lee, S.J., Wang, B., He, Y., Ding, J., Wang, X., Alvarez-Dominguez, J.R.* and Liu, J.*, 2025. [Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo](https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1). bioRxiv, pp.2025-04.
 
 ## Education
+- Since 2021, *Doctor of Philosophy*, Engineering Sciences, Harvard University
 - 2021-2024, *Master of Science*, Engineering Sciences, Harvard University
 - 2019-2020, *Master of Science*, Electrical and Computer Engineering, Carnegie Mellon University
 - 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering, Carnegie Mellon University, ***with University and College Honors***
