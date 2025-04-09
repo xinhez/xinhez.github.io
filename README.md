@@ -18,7 +18,6 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 - Zhao, S.#, Shen, H.#, Qin, S., Jiang, S., Tang, X., Lee, M., **Zhang, X.**, Lee, J., Chen, J. and Liu, J., 2024. [Realigning representational drift in mouse visual cortex by flexible brain-machine interfaces](https://www.biorxiv.org/content/10.1101/2024.05.23.595627v1). bioRxiv, pp.2024-05.
 
 ### Bio-Inspired AI
-- **Zhang, X.**, Shen, H., Zhang, Y., Marin-Llobet, A., Du, J., He, Y., Ding, J., Li, N., Liu, J., 2024, November. [Decoding brain intrinsic dynamics for NeuroAI](https://n4solutionsllc.com/brain-program-book/). NIH BRAIN NeuroAI Workshop, ***Early-Career Scholar Best Poster Award Runner-Up.***
 - Du, J., **Zhang, X.**, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.* and Ding, J.*, 2024. [Drift to Remember](https://arxiv.org/abs/2409.13997v1). arXiv preprint arXiv:2409.13997.
 
 ### Data Analysis Tools
@@ -27,11 +26,19 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 - Lin, Z.#, Marin-Llobet, A.#, Baek, J., He, Y., Lee, J., Wang, W., **Zhang, X.**, Lee, A.J., Liang, N., Du, J., Ding, J., Li, N. and Liu. J., 2025. [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1). bioRxiv, pp.2025-02.
 - Lin, Z.#, Wang, W.#, Arnau Marin-Llobet, Li, Q., Pollock, S.D., Sui, X., Almir Aljovic, Lee, J., Baek, J., Liang, N., **Zhang, X.**, Wang, C.K., Huang, J., Liu, M., Gao, Z., Sheng, H., Du, J., Lee, S.J., Wang, B., He, Y., Ding, J., Wang, X., Alvarez-Dominguez, J.R.* and Liu, J.*, 2025. [Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo](https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1). bioRxiv, pp.2025-04.
 
+## Awards and Honors
+- [National Institutes of Health (NIH) BRAIN NeuroAI Workshop](https://n4solutionsllc.com/brain-program-book/), ***Early-Career Scholar Honorarium and Best Poster Award Runner-Up.***
+- [National Science Foundation (NSF) EFRI BEGIN OI Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2422348&HistoricalAwards=false), ***Proposal Co-Author.***
+- Carnegie Mellon University, ***University Honors.***
+- Carnegie Mellon University, ***Carnegie Institute of Technology Research Honors.***
+- Carnegie Mellon University, ***ECE Grace Hopper Conference Scholarship.***
+- IEEE-Eta Kappa Nu Honor Society Sigma Chapter, ***Elected Member.***
+
 ## Education
 - Since 2021, *Doctor of Philosophy*, Engineering Sciences, Harvard University
 - 2021-2024, *Master of Science*, Engineering Sciences, Harvard University
 - 2019-2020, *Master of Science*, Electrical and Computer Engineering, Carnegie Mellon University
-- 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering, Carnegie Mellon University, ***with University and College Honors***
+- 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering, Carnegie Mellon University
 
 ## Teaching
 ### Guest Lecturer, Harvard University
