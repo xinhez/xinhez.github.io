@@ -27,12 +27,12 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 - Lin, Z.#, Wang, W.#, Arnau Marin-Llobet, Li, Q., Pollock, S.D., Sui, X., Almir Aljovic, Lee, J., Baek, J., Liang, N., **Zhang, X.**, Wang, C.K., Huang, J., Liu, M., Gao, Z., Sheng, H., Du, J., Lee, S.J., Wang, B., He, Y., Ding, J., Wang, X., Alvarez-Dominguez, J.R.* and Liu, J.*, 2025. [Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo](https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1). bioRxiv, pp.2025-04.
 
 ## Awards and Honors
-- [National Institutes of Health (NIH) BRAIN NeuroAI Workshop](https://n4solutionsllc.com/brain-program-book/), ***Early-Career Scholar Honorarium and Best Poster Award Runner-Up.***
-- [National Science Foundation (NSF) EFRI BEGIN OI Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2422348&HistoricalAwards=false), ***Proposal Co-Author.***
-- Carnegie Mellon University, ***University Honors.***
-- Carnegie Mellon University, ***Carnegie Institute of Technology Research Honors.***
-- Carnegie Mellon University, ***ECE Grace Hopper Conference Scholarship.***
-- IEEE-Eta Kappa Nu Honor Society Sigma Chapter, ***Elected Member.***
+- [National Institutes of Health (NIH) BRAIN NeuroAI Workshop](https://n4solutionsllc.com/brain-program-book/), ***Early-Career Scholar Honorarium and Best Poster Award Runner-Up***
+- [National Science Foundation (NSF) EFRI BEGIN OI Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2422348&HistoricalAwards=false), ***Proposal Co-Author***
+- Carnegie Mellon University, ***University Honors***
+- Carnegie Mellon University, ***Carnegie Institute of Technology Research Honors***
+- Carnegie Mellon University, ***ECE Grace Hopper Conference Scholarship***
+- IEEE-Eta Kappa Nu Honor Society Sigma Chapter, ***Elected Member***
 
 ## Education
 - Since 2021, *Doctor of Philosophy*, Engineering Sciences, Harvard University
@@ -73,15 +73,15 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 > I move fast to navigate across challenges, big or small.
 
 ### Entrepreneurship
-- 2017-2019, Talent Pool, Startup Co-Founder
+- 2017-2019, Talent Pool, ***Startup Co-Founder***
 
 ### Healthcare
-- Summer 2019, Guangdong Sanjiu Brain Hospital, Tech Intern
+- Summer 2019, Guangdong Sanjiu Brain Hospital, ***Tech Intern***
 
 ### Product Development and Marketing
-- 2021, JPMorgan Chase & Co. Software Engineer
-- 2018-2019, Duolingo, Android Developer
-- Fall 2018, Expii, Engineer Intern
-- Summer 2018, Facebook (Now Meta), Software Engineer Intern
-- Summer 2017, Google, Software Engineer Intern
-- Summer 2016, Google, Engineering Practicum Intern
+- 2021, JPMorgan Chase & Co. ***Software Engineer***
+- 2018-2019, Duolingo, ***Android Developer***
+- Fall 2018, Expii, ***Engineer Intern***
+- Summer 2018, Facebook (Now Meta), ***Software Engineer Intern***
+- Summer 2017, Google, ***Software Engineer Intern***
+- Summer 2016, Google, ***Engineering Practicum Intern***
