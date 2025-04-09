@@ -70,7 +70,7 @@ _I am a PhD candidate at Harvard University, conducting research at the intersec
 * * *
 
 # Industry
-> I learn fast and navigate across challenges, big or small.
+> I move fast to navigate across challenges, big or small.
 
 ### Entrepreneurship
 - 2017-2019, Talent Pool, Startup Co-Founder
