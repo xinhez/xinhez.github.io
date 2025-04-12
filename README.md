@@ -1,6 +1,6 @@
 I am a PhD candidate at Harvard University, conducting research at the intersection of artificial intelligence and biology, focusing on stem cell systems, brain-machine interfaces, and bio-inspired computing. Previously, I worked as a developer with a strong emphasis on product development and marketing analysis at leading tech companies and startups. Looking ahead, I aim to push the frontiers of bio-AI integration and drive translational impact through technologies that bridge scientific discovery and real-world application.
 
-[![LinkedIn](In-white.png)](https://www.linkedin.com/in/xinhez/)  [Connect with me](https://www.linkedin.com/in/xinhez/)
+[![LinkedIn](In-blue.png)](https://www.linkedin.com/in/xinhez/)  [Connect with me](https://www.linkedin.com/in/xinhez/)
 
 * * *
 
