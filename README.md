@@ -37,8 +37,8 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 - 2025 Eric and Wendy Schmidt Center Biomedical Science and AI Symposium (Poster)
 - 2025 National Science Foundation Workshop on Reinforcement Learning (Poster)
 - 2024 National Institutes of Health BRAIN NeuroAI Workshop (Poster)
-- Fall 2024 Harvard University BE131 Neuroengineering (Guest lecture)
-- Spring 2024 Harvard University BE129 Introduction to Bioelectronics (Guest lecture)
+- 2024 Harvard University BE131 Neuroengineering (Guest lecture)
+- 2024 Harvard University BE129 Introduction to Bioelectronics (Guest lecture)
 
 
 ## Awards and Honors
