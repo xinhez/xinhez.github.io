@@ -73,20 +73,6 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
     - Physics for Engineering
 
 
-## Mentorship
-- 2022-2024, First-Year Advisor, Harvard University
-- 2020, Academic Peer Advisor, Carnegie Mellon University
-
-
-## Talks
-- 2025 Harvard University Center for Brain Science Retreat (Poster)
-- 2025 Eric and Wendy Schmidt Center Biomedical Science and AI Symposium (Poster)
-- 2025 National Science Foundation Workshop on Reinforcement Learning (Poster)
-- 2024 National Institutes of Health BRAIN NeuroAI Workshop (Poster)
-- 2024 Harvard University BE131 Neuroengineering (Guest lecture)
-- 2024 Harvard University BE129 Introduction to Bioelectronics (Guest lecture)
-
-
 ## Awards and Honors
 - [The Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI](https://www.ericandwendyschmidtcenter.org/symposia/ewsc-symposium-2025)
   - Poster Presentation Third Place
@@ -105,6 +91,15 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
   - Elected Member
 
 
+## Talks
+- 2025 Harvard University Center for Brain Science Retreat (Poster)
+- 2025 Eric and Wendy Schmidt Center Biomedical Science and AI Symposium (Poster)
+- 2025 National Science Foundation Workshop on Reinforcement Learning (Poster)
+- 2024 National Institutes of Health BRAIN NeuroAI Workshop (Poster)
+- 2024 Harvard University BE131 Neuroengineering (Guest lecture)
+- 2024 Harvard University BE129 Introduction to Bioelectronics (Guest lecture)
+
+
 ## Education
 - **Harvard University**
   - Since 2021, *Doctor of Philosophy*, Engineering Sciences
@@ -112,6 +107,11 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 - **Carnegie Mellon University**
   - 2019-2020, *Master of Science*, Electrical and Computer Engineering
   - 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering
+
+
+## Mentorship
+- 2022-2024, First-Year Advisor, Harvard University
+- 2020, Academic Peer Advisor, Carnegie Mellon University
 
 
 * * *
