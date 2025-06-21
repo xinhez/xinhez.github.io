@@ -32,43 +32,9 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 - Tang, X.&dagger;, Zhang, J.&dagger;, He, Y.&dagger;, **Zhang, X.**, Lin, Z., Partarrieu, S., Hanna, E.B., Ren, Z., Shen, H., Yang, Y., Wang, X., Li, N., Ding, J.&Dagger; and Liu, J.&Dagger;, 2023. [Explainable multi-task learning for multi-modality biological data analysis](https://www.nature.com/articles/s41467-023-37477-x). Nature communications, 14(1), p.2546.
 - Bu, T.&dagger;, **Zhang, X.&dagger;**, Mertz, C. and Dolan, J.M.&Dagger;, 2021, September. [Carla simulated data for rare road object detection](https://ieeexplore.ieee.org/document/9564932). In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC) (pp. 2794-2801). IEEE.
 
-
 *&dagger;: First author*
 
 *&Dagger;: Corresponding author*
-
-## Talks
-- 2025 Harvard University Center for Brain Science Retreat (Poster)
-- 2025 Eric and Wendy Schmidt Center Biomedical Science and AI Symposium (Poster)
-- 2025 National Science Foundation Workshop on Reinforcement Learning (Poster)
-- 2024 National Institutes of Health BRAIN NeuroAI Workshop (Poster)
-- 2024 Harvard University BE131 Neuroengineering (Guest lecture)
-- 2024 Harvard University BE129 Introduction to Bioelectronics (Guest lecture)
-
-
-## Awards and Honors
-- [The Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI](https://www.ericandwendyschmidtcenter.org/symposia/ewsc-symposium-2025)
-  - Poster Presentation Third Place
-- [National Institutes of Health BRAIN NeuroAI Workshop](https://n4solutionsllc.com/brain-program-book/)
-  - Early-Career Scholar Honorarium
-  - Best Poster Award Runner-Up
-- [National Science Foundation EFRI BEGIN OI Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2422348&HistoricalAwards=false)
-  - Proposal Co-Author
-- Carnegie Mellon University
-  - University Honors
-  - Carnegie Institute of Technology Research Honors
-  - ECE Grace Hopper Conference Scholarship
-  - Dean's List
-- IEEE-Eta Kappa Nu Honor Society Sigma Chapter
-  - Corresponding Secretary 
-  - Elected Member
-
-
-## Education
-- Since 2021, *Doctor of Philosophy*, Engineering Sciences, Harvard University
-- 2021-2024, *Master of Science*, Engineering Sciences, Harvard University
-- 2019-2020, *Master of Science*, Electrical and Computer Engineering, Carnegie Mellon University
-- 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering, Carnegie Mellon University
 
 
 ## Teaching
@@ -106,9 +72,47 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
     - Matrices and Linear Transformations
     - Physics for Engineering
 
+
 ## Mentorship
 - 2022-2024, First-Year Advisor, Harvard University
 - 2020, Academic Peer Advisor, Carnegie Mellon University
+
+
+## Talks
+- 2025 Harvard University Center for Brain Science Retreat (Poster)
+- 2025 Eric and Wendy Schmidt Center Biomedical Science and AI Symposium (Poster)
+- 2025 National Science Foundation Workshop on Reinforcement Learning (Poster)
+- 2024 National Institutes of Health BRAIN NeuroAI Workshop (Poster)
+- 2024 Harvard University BE131 Neuroengineering (Guest lecture)
+- 2024 Harvard University BE129 Introduction to Bioelectronics (Guest lecture)
+
+
+## Awards and Honors
+- [The Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI](https://www.ericandwendyschmidtcenter.org/symposia/ewsc-symposium-2025)
+  - Poster Presentation Third Place
+- [National Institutes of Health BRAIN NeuroAI Workshop](https://n4solutionsllc.com/brain-program-book/)
+  - Early-Career Scholar Honoraree
+  - Best Poster Award Runner-Up
+- [National Science Foundation EFRI BEGIN OI Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2422348&HistoricalAwards=false)
+  - Proposal Co-Author
+- Carnegie Mellon University
+  - University Honors
+  - Carnegie Institute of Technology Research Honors
+  - ECE Grace Hopper Conference Scholarship
+  - Dean's List
+- IEEE-Eta Kappa Nu Honor Society Sigma Chapter
+  - Corresponding Secretary 
+  - Elected Member
+
+
+## Education
+- **Harvard University**
+  - Since 2021, *Doctor of Philosophy*, Engineering Sciences
+  - 2021-2024, *Master of Science*, Engineering Sciences
+- **Carnegie Mellon University**
+  - 2019-2020, *Master of Science*, Electrical and Computer Engineering
+  - 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering
+
 
 * * *
 
