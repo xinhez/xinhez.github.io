@@ -58,6 +58,7 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
   - University Honors
   - Carnegie Institute of Technology Research Honors
   - ECE Grace Hopper Conference Scholarship
+  - Dean's List
 - IEEE-Eta Kappa Nu Honor Society Sigma Chapter
   - Corresponding Secretary 
   - Elected Member
@@ -90,6 +91,20 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 
 ### Tutoring,  Carnegie Mellon University
 - 2015-2020, College Reading and Learning Association Certified Level 2 Advanced Tutor
+- Offered 1-on-1 and small-group tutoring and walk-in sessions for:
+  - **Computer Science**
+    - Principles of Computing
+    - Fundamentals of Programming
+    - Principles of Imperative Computing
+    - Functional Programming
+    - Computer Systems
+  - **Electrical and Computer Engineering**
+    - Introduction to Electrical and Computer Engineering
+    - Signals and Systems
+  - **Mathematics and Physics**
+    - Concept of Math
+    - Matrices and Linear Transformations
+    - Physics for Engineering
 
 ## Mentorship
 - 2022-2024, First-Year Advisor, Harvard University
