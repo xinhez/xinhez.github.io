@@ -55,7 +55,6 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 
 ### Tutoring,  Carnegie Mellon University
 - 2015-2020, College Reading and Learning Association Certified Level 2 Advanced Tutor
-- Offered 1-on-1 and small-group tutoring and walk-in sessions for:
   - **Computer Science**
     - Principles of Computing
     - Fundamentals of Programming
