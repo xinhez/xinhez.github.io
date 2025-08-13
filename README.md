@@ -13,7 +13,7 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 ## Publications and Preprints
 
 ### Stem Cell Engineering
-- Liu, R.&dagger;, Ren, Z.&dagger;, **Zhang, X.&dagger;**, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;, 2024. [An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1). bioRxiv, pp.2024-12.
+- Liu, R.&dagger;, **Zhang, X.&dagger;**, Ren, Z.&dagger;, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;, 2024. [An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1). bioRxiv, pp.2024-12.
 - Li, Q.&dagger;, Liu, R.&dagger;, Lin, Z.&dagger;, **Zhang, X.&dagger;**, Silva, I.G., Pollock, S.D., Alvarez-Dominguez, J.R.&Dagger; and Liu, J.&Dagger;, 2024. [Cyborg islets: implanted flexible electronics reveal principles of human islet electrical maturation](https://www.biorxiv.org/content/10.1101/2024.03.18.585551v1). bioRxiv, pp.2024-03.
 
 ### Brain-Machine Interfaces
