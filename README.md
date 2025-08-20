@@ -18,10 +18,10 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 
 ### Brain-Machine Interfaces
 - Liu, R.&dagger;, **Zhang, X.**, Sheng, H. and Liu, J.&Dagger;, 2024, December. [In Vivo Neural Stimulation and Recording using Flexible Bioelectronics](https://ieeexplore.ieee.org/document/10873414). In 2024 IEEE International Electron Devices Meeting (IEDM) (pp. 1-4). IEEE.
-- Zhao, H.&dagger;.&Dagger;, **Zhang, X.**.&Dagger;,  Marin-Llobet, A., Lin, X. and Liu, J., 2025. [Benchmarking spike source localization algorithms in high density probes](https://arxiv.org/abs/2508.13451) arXiv preprint arXiv:2508.13451.
+- Zhao, H.&dagger;.&Dagger;, **Zhang, X.**.&Dagger;,  Marin-Llobet, A., Lin, X. and Liu, J., 2025. [Benchmarking spike source localization algorithms in high density probes](https://arxiv.org/abs/2508.13451). arXiv preprint arXiv:2508.13451.
 - Lin, X.&dagger;, **Zhang, X.**, Wang, Z., Chen, J., Lee, J., Lee, A.J., Yang, H., Remy, A., Shen, H., He, Y., Zhao, H., Zhang, X., Wang, W., Aljovic, A., Vlassak, J.J., Lu, N., Liu, J.&Dagger;, 2025. [Plastic-elastomer heterostructure for robust flexible brain-computer interfaces](https://www.biorxiv.org/content/10.1101/2025.04.29.651325v1). bioRxiv, pp.2025-04.
 - Zhao, S.&dagger;, Shen, H.&dagger;, Qin, S., Jiang, S., Tang, X., Lee, M., **Zhang, X.**, Lee, J., Chen, J. and Liu, J.&Dagger;, 2024. [Realigning representational drift in mouse visual cortex by flexible brain-machine interfaces](https://www.biorxiv.org/content/10.1101/2024.05.23.595627v1). bioRxiv, pp.2024-05.
-- Marin-Llobet, A.&dagger;, Manasanch, A., Sanchez-Manso, S., Tresserras, L., **Zhang, X.**, Hua, Y., Zhao, H., Torao-Angosto, M., Sanchez-Vives, M.V. and Porta, L.D.&Dagger;, 2025. [Riemannian Geometry for the classification of brain states with intracortical brain-computer interfaces.](https://arxiv.org/abs/2504.05534) arXiv preprint arXiv:2504.05534.
+- Marin-Llobet, A.&dagger;, Manasanch, A., Sanchez-Manso, S., Tresserras, L., **Zhang, X.**, Hua, Y., Zhao, H., Torao-Angosto, M., Sanchez-Vives, M.V. and Porta, L.D.&Dagger;, 2025. [Riemannian Geometry for the classification of brain states with intracortical brain-computer interfaces.](https://arxiv.org/abs/2504.05534). arXiv preprint arXiv:2504.05534.
 
 ### Bio-Inspired and Agentic AI
 - Du, J.&dagger;, **Zhang, X.**, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.&Dagger; and Ding, J.&Dagger;, 2024. [Drift to Remember](https://arxiv.org/abs/2409.13997v1). arXiv preprint arXiv:2409.13997.
@@ -39,6 +39,7 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 ## Teaching
 
 ### Teaching Fellow, Harvard University
+- Fall 2025, *Theory of Neural Computation*
 - Fall 2025, *Neuroengineering*
 - Fall 2024, *Neuroengineering*
 - Fall 2022, *Systems Development for Computational Science*
