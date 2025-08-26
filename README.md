@@ -12,6 +12,8 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 
 ## Publications and Preprints
 
+*&dagger;: First author*, *&Dagger;: Corresponding author*
+
 ### Stem Cell Engineering
 - Aoyama, J.&dagger;, Liu, R.&dagger;, **Zhang, X.&dagger;**, Zhu, A., Luanpaisanon, P., Garbern, J., Cao, F., Barrera, I., Sokol, M., Dasariraju, S., Fandl, H., Gil, E.S., Aleksi, E., Amanuma, T., Velayutham, N., Saucerman, J., Chen, F., Liu, J.&Dagger; and Lee., R.T.&Dagger; [Flexible Nanoelectronics Reveal Arrhythmogenesis in Transplanted Human Cardiomyocytes](). Science, upcoming.
 - Liu, R.&dagger;, **Zhang, X.&dagger;**, Ren, Z.&dagger;, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;, 2024. [An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1). bioRxiv, pp.2024-12.
@@ -33,8 +35,6 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 ### Misc.
 - Tang, X.&dagger;, Zhang, J.&dagger;, He, Y.&dagger;, **Zhang, X.**, Lin, Z., Partarrieu, S., Hanna, E.B., Ren, Z., Shen, H., Yang, Y., Wang, X., Li, N., Ding, J.&Dagger; and Liu, J.&Dagger;, 2023. [Explainable multi-task learning for multi-modality biological data analysis](https://www.nature.com/articles/s41467-023-37477-x). Nature communications, 14(1), p.2546.
 - Bu, T.&dagger;, **Zhang, X.&dagger;**, Mertz, C. and Dolan, J.M.&Dagger;, 2021, September. [Carla simulated data for rare road object detection](https://ieeexplore.ieee.org/document/9564932). In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC) (pp. 2794-2801). IEEE.
-
-*&dagger;: First author*, *&Dagger;: Corresponding author*
 
 
 ## Teaching
