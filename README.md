@@ -12,7 +12,7 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 
 ## Publications and Preprints
 
-&dagger;: *First author*, &Dagger;: *Corresponding author*
+**&dagger;**: *First author*, **&Dagger;**: *Corresponding author*
 
 ### Stem Cell Engineering
 - Aoyama, J.&dagger;, Liu, R.&dagger;, **Zhang, X.&dagger;**, Zhu, A., Luanpaisanon, P., Garbern, J., Cao, F., Barrera, I., Sokol, M., Dasariraju, S., Fandl, H., Gil, E.S., Aleksi, E., Amanuma, T., Velayutham, N., Saucerman, J., Chen, F., Liu, J.&Dagger; and Lee., R.T.&Dagger; [Flexible Nanoelectronics Reveal Arrhythmogenesis in Transplanted Human Cardiomyocytes](). Science, upcoming.
