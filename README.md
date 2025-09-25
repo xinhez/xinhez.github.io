@@ -30,7 +30,7 @@ I am a PhD candidate at Harvard University, where my research sits at the inters
 - Lin, Z.&dagger;, Marin-Llobet, A.&dagger;, Baek, J., He, Y., Lee, J., Wang, W., **Zhang, X.**, Lee, A.J., Liang, N., Du, J., Ding, J., Li, N. and Liu. J.&Dagger;, 2025. [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1). bioRxiv, pp.2025-02.
 - Du, J.&dagger;, **Zhang, X.**, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.&Dagger; and Ding, J.&Dagger;, 2024. [Drift to Remember](https://arxiv.org/abs/2409.13997v1). arXiv preprint arXiv:2409.13997.
 
-### Misc.
+### Miscellaneous Research
 - Tang, X.&dagger;, Zhang, J.&dagger;, He, Y.&dagger;, **Zhang, X.**, Lin, Z., Partarrieu, S., Hanna, E.B., Ren, Z., Shen, H., Yang, Y., Wang, X., Li, N., Ding, J.&Dagger; and Liu, J.&Dagger;, 2023. [Explainable multi-task learning for multi-modality biological data analysis](https://www.nature.com/articles/s41467-023-37477-x). Nature communications, 14(1), p.2546.
 - Bu, T.&dagger;, **Zhang, X.&dagger;**, Mertz, C. and Dolan, J.M.&Dagger;, 2021, September. [Carla simulated data for rare road object detection](https://ieeexplore.ieee.org/document/9564932). In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC) (pp. 2794-2801). IEEE.
 - Zhang, Y.&dagger;, **Zhang, X.**, Liu, J. and Li, N.&Dagger;, 2025. [Sample Efficient Algorithms for Linear System Identification under Noisy Observations.](https://arxiv.org/abs/2504.09057) arXiv preprint arXiv:2504.09057.
