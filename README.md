@@ -15,8 +15,8 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 **&dagger;**: *First author*, **&Dagger;**: *Corresponding author*
 
 ### Stem Cell Engineering
-- Aoyama, J.&dagger;, Liu, R.&dagger;, **Zhang, X.&dagger;**, Zhu, A., Luanpaisanon, P., Garbern, J., Cao, F., Barrera, I., Sokol, M., Dasariraju, S., Fandl, H., Gil, E.S., Aleksi, E., Amanuma, T., Velayutham, N., Saucerman, J., Chen, F., Liu, J.&Dagger; and Lee., R.T.&Dagger; [Flexible Nanoelectronics Reveal Arrhythmogenesis in Transplanted Human Cardiomyocytes](). Science, upcoming.
-- Liu, R.&dagger;, **Zhang, X.&dagger;**, Ren, Z.&dagger;, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;, 2024. [An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1). bioRxiv, pp.2024-12.
+- Aoyama, J.&dagger;, Liu, R.&dagger;, **Zhang, X.&dagger;**, Zhu, A., Luanpaisanon, P., Garbern, J., Cao, F., Barrera, I., Sokol, M., Dasariraju, S., Fandl, H., Gil, E.S., Aleksi, E., Amanuma, T., Velayutham, N., Saucerman, J., Chen, F., Liu, J.&Dagger; and Lee., R.T.&Dagger; [Flexible Nanoelectronics Reveal Arrhythmogenesis in Transplanted Human Cardiomyocytes](). Science, accepted.
+- Liu, R.&dagger;, Ren, Z.&dagger;, **Zhang, X.&dagger;**, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;, 2024. [An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1). Science, in revision.
 - Li, Q.&dagger;, Liu, R.&dagger;, Lin, Z.&dagger;, **Zhang, X.&dagger;**, Silva, I.G., Pollock, S.D., Alvarez-Dominguez, J.R.&Dagger; and Liu, J.&Dagger;, 2024. [Cyborg islets: implanted flexible electronics reveal principles of human islet electrical maturation](https://www.biorxiv.org/content/10.1101/2024.03.18.585551v1). bioRxiv, pp.2024-03.
 
 ### Brain-Machine Interfaces
@@ -58,7 +58,7 @@ Before beginning my doctoral studies, I worked in the tech industry with a focus
 - Fall 2015, *Fundamentals of Programming* 
 - Summer 2015, *Principles of Computing*
 
-### Tutoring,  Carnegie Mellon University
+### Peer Tutor,  Carnegie Mellon University
 - 2015-2020, College Reading and Learning Association Certified Level 2 Advanced Tutor
   - **Computer Science**
     - Principles of Computing
