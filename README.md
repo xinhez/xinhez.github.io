@@ -1,4 +1,4 @@
-I am a PhD candidate at Harvard University, where my research sits at the intersection of **AI and biology**. Prior to my doctoral studies, I worked in the tech industry on product development and marketing analytics. Looking ahead, my goal is to advance the integration of biological systems and AI, driving translational impact through technologies that bridge fundamental discovery and real-world application.
+I am a PhD candidate at Harvard University, where my research bridges AI and the life sciences. My work has evolved from applying AI to biological data toward exploring its role in biomedical research and applications. Prior to my doctoral studies, I worked in the tech industry on product development and marketing analytics. Looking ahead, my goal is to advance the integration of biological systems and AI, driving translational impact through technologies that bridge fundamental discovery and real-world application.
 
 
 [![LinkedIn](In-blue.png)](https://www.linkedin.com/in/xinhez/)  [Connect with me](https://www.linkedin.com/in/xinhez/)
@@ -6,6 +6,7 @@ I am a PhD candidate at Harvard University, where my research sits at the inters
 * * *
 
 # Academia
+Currently transitioning from AI for Biology to AI for Biomedical applications. Stay tuned for upcoming work.
 
 ## Publications and Preprints
 
@@ -116,6 +117,7 @@ I am a PhD candidate at Harvard University, where my research sits at the inters
 * * *
 
 # Industry
+Previously worked on large-scale software systems, addressing product and market challenges through engineering solutions.
 
 ### Entrepreneurship
 - 2017-2019, Talent Pool, ***Startup Co-Founder***
