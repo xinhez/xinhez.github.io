@@ -1,4 +1,12 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Xinhe Zhang
 description: xinhez [at] alumni.cmu.edu
-logo: headshot.jpg
+
+header_pages:
+  - research.md
+  - teaching.md
+  - industry.md
+
+minima:
+  social_links:
+    linkedin: xinhez
