@@ -1,23 +1,21 @@
 ---
 layout: page
-title: Research
+# title: Research
 permalink: /research/
 ---
 
-Currently transitioning from AI for Biology to AI for Biomedical applications. Stay tuned for upcoming work.
-
-## Publications and Preprints
+### Publications and Preprints
 
 **&dagger;**: *First author*, **&Dagger;**: *Corresponding author*
 
-### Stem Cell Engineering
+#### Stem Cell Engineering
 - [**Flexible Nanoelectronics Reveal Arrhythmogenesis in Transplanted Human Cardiomyocytes**](https://www.science.org/doi/10.1126/science.adw4612), *Science*, eadw4612, 2025. <details><summary>Authors</summary>Aoyama, J.&dagger;, Liu, R.&dagger;, **Zhang, X.&dagger;**, Zhu, A., Luanpaisanon, P., Garbern, J., Cao, F., Barrera, I., Sokol, M., Dasariraju, S., Fandl, H., Gil, E.S., Aleksi, E., Amanuma, T., Velayutham, N., Saucerman, J., Chen, F., Liu, J.&Dagger; and Lee., R.T.&Dagger;</details>
 
 - [**An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation**](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1), *Science*, in revision, 2024. <details><summary>Authors</summary>Liu, R.&dagger;, Ren, Z.&dagger;, **Zhang, X.&dagger;**, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;</details>
 
 - [**Cyborg islets: implanted flexible electronics reveal principles of human islet electrical maturation**](https://www.biorxiv.org/content/10.1101/2024.03.18.585551v1), *bioRxiv*, pp.2024-03, 2024. <details><summary>Authors</summary>Li, Q.&dagger;, Liu, R.&dagger;, Lin, Z.&dagger;, **Zhang, X.&dagger;**, Silva, I.G., Pollock, S.D., Alvarez-Dominguez, J.R.&Dagger; and Liu, J.&Dagger;</details>
 
-### Brain-Machine Interfaces
+#### Brain-Machine Interfaces
 - [**Riemannian Geometry for the Classification of Brain States with Intracortical Brain Recordings**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500480), *Advanced Intelligent Systems*, p.e202500480, 2025. <details><summary>Authors</summary>Marin‐Llobet, A.&dagger;, Sánchez‐Manso, S., Manasanch, A., Tresserras, L., **Zhang, X.**, Hua, Y., Zhao, H., Torao‐Angosto, M., Sanchez‐Vives, M.V. and Dalla Porta, L.&Dagger;</details>
 
 - [**In Vivo Neural Stimulation and Recording using Flexible Bioelectronics**](https://ieeexplore.ieee.org/document/10873414), *IEEE International Electron Devices Meeting (IEDM)*, pp. 1-4, 2024. <details><summary>Authors</summary>Liu, R.&dagger;, **Zhang, X.**, Sheng, H. and Liu, J.&Dagger;</details>
@@ -29,7 +27,7 @@ Currently transitioning from AI for Biology to AI for Biomedical applications. S
 - [**Realigning representational drift in mouse visual cortex by flexible brain-computer interfaces**](https://www.biorxiv.org/content/10.1101/2024.05.23.595627v1), *bioRxiv*, pp.2024-05, 2024. <details><summary>Authors</summary>Zhao, S.&dagger;, Shen, H.&dagger;, Qin, S., Jiang, S., Tang, X., Lee, M., **Zhang, X.**, Lee, J., Chen, J. and Liu, J.&Dagger;</details>
 
 
-### Bio-Inspired and Agentic AI
+#### Bio-Inspired and Agentic AI
 - [**DeviceAgent: An autonomous multimodal AI agent for flexible bioelectronics.**](https://www.biorxiv.org/content/10.1101/2025.10.10.681748v1), *bioRxiv*, pp.2025-10, 2025. <details><summary>Authors</summary>Lee, J.&dagger;, Lin, Z.&dagger;, Wang, W.&dagger;, Baek, J.&dagger;, Lee, A.J., Aljovic, A., Marin-Llobet, A., **Zhang, X.**, Liu, R., Li, N. and Liu, J.&Dagger;</details>
 
 - [**An AI Agent for cell-type specific brain computer interfaces**](https://www.biorxiv.org/content/10.1101/2025.09.11.675660v1), *bioRxiv*, pp.2025-09, 2025. <details><summary>Authors</summary>Marin-Llobet, A.&dagger;, Lin, Z.&dagger;, Baek, J.&dagger;, Aljovic, A., **Zhang, X.**, Lee, A.J., Wang, W., Lee, J., Shen, H., He, Y., Li, N., Liu, J.&Dagger;</details>
@@ -42,12 +40,12 @@ Currently transitioning from AI for Biology to AI for Biomedical applications. S
 
 - [**Drift to Remember**](https://arxiv.org/abs/2409.13997v1), *arXiv*, 2409.13997, 2024. <details><summary>Authors</summary>Du, J.&dagger;, **Zhang, X.**, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.&Dagger; and Ding, J.&Dagger;</details>
 
-### Miscellaneous Research
+#### Miscellaneous Research
 - [**Explainable multi-task learning for multi-modality biological data analysis**](https://www.nature.com/articles/s41467-023-37477-x), *Nature communications*, 14(1), p.2546, 2023. <details><summary>Authors</summary>Tang, X.&dagger;, Zhang, J.&dagger;, He, Y.&dagger;, **Zhang, X.**, Lin, Z., Partarrieu, S., Hanna, E.B., Ren, Z., Shen, H., Yang, Y., Wang, X., Li, N., Ding, J.&Dagger; and Liu, J.&Dagger;</details>
 - [**Carla simulated data for rare road object detection**](https://ieeexplore.ieee.org/document/9564932), *IEEE International Intelligent Transportation Systems Conference (ITSC)*, pp. 2794-2801, 2021. <details><summary>Authors</summary>Bu, T.&dagger;, **Zhang, X.&dagger;**, Mertz, C. and Dolan, J.M.&Dagger;</details>
 - [**Sample Efficient Algorithms for Linear System Identification under Noisy Observations**](https://arxiv.org/abs/2504.09057), *arXiv*, 2504.09057, 2025. <details><summary>Authors</summary>Zhang, Y.&dagger;, **Zhang, X.**, Liu, J. and Li, N.&Dagger;</details>
 
-## Awards and Honors
+### Awards and Honors
 - [The Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI](https://www.ericandwendyschmidtcenter.org/symposia/ewsc-symposium-2025)
   - Poster Presentation Third Place
 - [National Institutes of Health BRAIN NeuroAI Workshop](https://n4solutionsllc.com/brain-program-book/)
@@ -64,7 +62,7 @@ Currently transitioning from AI for Biology to AI for Biomedical applications. S
   - Corresponding Secretary 
   - Elected Member
 
-## Talks
+### Talks
 - 2025 Harvard University Center for Brain Science Retreat (Poster)
 - 2025 Eric and Wendy Schmidt Center Biomedical Science and AI Symposium (Poster)
 - 2025 National Science Foundation Workshop on Reinforcement Learning (Poster)
