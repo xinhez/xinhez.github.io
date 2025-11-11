@@ -3,9 +3,9 @@ title: Xinhe Zhang
 description: xinhez [at] alumni.cmu.edu
 
 header_pages:
-  - research.md
   - teaching.md
-  - industry.md
+  - research.md
+  - experience.md
 
 minima:
   social_links:

@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching
-
 ### Teaching Fellow, Harvard University
 - Fall 2025, *Theory of Neural Computation*
 - Fall 2025, *Neuroengineering*
@@ -23,6 +21,12 @@ permalink: /teaching/
 - Fall 2015, *Fundamentals of Programming* 
 - Summer 2015, *Principles of Computing*
 
+### First-Year Advisor, Harvard University
+- 2022-2024
+
+### Academic Peer Advisor, Carnegie Mellon University
+- Fall 2020
+
 ### Peer Tutor, Carnegie Mellon University
 - 2015-2020, College Reading and Learning Association Certified Level 2 Advanced Tutor
   - **Computer Science**
@@ -38,7 +42,3 @@ permalink: /teaching/
     - Concept of Math
     - Matrices and Linear Transformations
     - Physics for Engineering
-
-## Mentorship
-- 2022-2024, First-Year Advisor, Harvard University
-- 2020, Academic Peer Advisor, Carnegie Mellon University

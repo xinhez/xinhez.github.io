@@ -11,28 +11,41 @@ Currently transitioning from AI for Biology to AI for Biomedical applications. S
 **&dagger;**: *First author*, **&Dagger;**: *Corresponding author*
 
 ### Stem Cell Engineering
-- Aoyama, J.&dagger;, Liu, R.&dagger;, **Zhang, X.&dagger;**, Zhu, A., Luanpaisanon, P., Garbern, J., Cao, F., Barrera, I., Sokol, M., Dasariraju, S., Fandl, H., Gil, E.S., Aleksi, E., Amanuma, T., Velayutham, N., Saucerman, J., Chen, F., Liu, J.&Dagger; and Lee., R.T.&Dagger; [Flexible Nanoelectronics Reveal Arrhythmogenesis in Transplanted Human Cardiomyocytes](https://www.science.org/doi/10.1126/science.adw4612). Science, 0, eadw4612.
-- Liu, R.&dagger;, Ren, Z.&dagger;, **Zhang, X.&dagger;**, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;, 2024. [An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1). Science, in revision.
-- Li, Q.&dagger;, Liu, R.&dagger;, Lin, Z.&dagger;, **Zhang, X.&dagger;**, Silva, I.G., Pollock, S.D., Alvarez-Dominguez, J.R.&Dagger; and Liu, J.&Dagger;, 2024. [Cyborg islets: implanted flexible electronics reveal principles of human islet electrical maturation](https://www.biorxiv.org/content/10.1101/2024.03.18.585551v1). bioRxiv, pp.2024-03.
+- [**Flexible Nanoelectronics Reveal Arrhythmogenesis in Transplanted Human Cardiomyocytes**](https://www.science.org/doi/10.1126/science.adw4612), *Science*, eadw4612, 2025. <details><summary>Authors</summary>Aoyama, J.&dagger;, Liu, R.&dagger;, **Zhang, X.&dagger;**, Zhu, A., Luanpaisanon, P., Garbern, J., Cao, F., Barrera, I., Sokol, M., Dasariraju, S., Fandl, H., Gil, E.S., Aleksi, E., Amanuma, T., Velayutham, N., Saucerman, J., Chen, F., Liu, J.&Dagger; and Lee., R.T.&Dagger;</details>
+
+- [**An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation**](https://www.biorxiv.org/content/10.1101/2024.12.07.627355v1), *Science*, in revision, 2024. <details><summary>Authors</summary>Liu, R.&dagger;, Ren, Z.&dagger;, **Zhang, X.&dagger;**, Li, Q., Wang, W., Lin, Z., Lee, R.T., Ding, J., Li, N.&Dagger; and Liu, J.&Dagger;</details>
+
+- [**Cyborg islets: implanted flexible electronics reveal principles of human islet electrical maturation**](https://www.biorxiv.org/content/10.1101/2024.03.18.585551v1), *bioRxiv*, pp.2024-03, 2024. <details><summary>Authors</summary>Li, Q.&dagger;, Liu, R.&dagger;, Lin, Z.&dagger;, **Zhang, X.&dagger;**, Silva, I.G., Pollock, S.D., Alvarez-Dominguez, J.R.&Dagger; and Liu, J.&Dagger;</details>
 
 ### Brain-Machine Interfaces
-- Marin‐Llobet, A.&dagger;, Sánchez‐Manso, S., Manasanch, A., Tresserras, L., **Zhang, X.**, Hua, Y., Zhao, H., Torao‐Angosto, M., Sanchez‐Vives, M.V. and Dalla Porta, L.&Dagger;, [Riemannian Geometry for the Classification of Brain States with Intracortical Brain Recordings](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500480). Advanced Intelligent Systems, p.e202500480.
-- Liu, R.&dagger;, **Zhang, X.**, Sheng, H. and Liu, J.&Dagger;, 2024, December. [In Vivo Neural Stimulation and Recording using Flexible Bioelectronics](https://ieeexplore.ieee.org/document/10873414). In 2024 IEEE International Electron Devices Meeting (IEDM) (pp. 1-4). IEEE.
-- Zhao, H.&dagger;&Dagger;, **Zhang, X.&Dagger;**,  Marin-Llobet, A., Lin, X. and Liu, J., 2025. [Benchmarking spike source localization algorithms in high density probes](https://arxiv.org/abs/2508.13451). arXiv preprint arXiv:2508.13451.
-- Lin, X.&dagger;, **Zhang, X.**, Wang, Z., Chen, J., Lee, J., Lee, A.J., Yang, H., Remy, A., Shen, H., He, Y., Zhao, H., Zhang, X., Wang, W., Aljovic, A., Vlassak, J.J., Lu, N., Liu, J.&Dagger;, 2025. [Plastic-elastomer heterostructure for robust flexible brain-computer interfaces](https://www.biorxiv.org/content/10.1101/2025.04.29.651325v1). bioRxiv, pp.2025-04.
-- Zhao, S.&dagger;, Shen, H.&dagger;, Qin, S., Jiang, S., Tang, X., Lee, M., **Zhang, X.**, Lee, J., Chen, J. and Liu, J.&Dagger;, 2024. [Realigning representational drift in mouse visual cortex by flexible brain-machine interfaces](https://www.biorxiv.org/content/10.1101/2024.05.23.595627v1). bioRxiv, pp.2024-05.
+- [**Riemannian Geometry for the Classification of Brain States with Intracortical Brain Recordings**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500480), *Advanced Intelligent Systems*, p.e202500480, 2025. <details><summary>Authors</summary>Marin‐Llobet, A.&dagger;, Sánchez‐Manso, S., Manasanch, A., Tresserras, L., **Zhang, X.**, Hua, Y., Zhao, H., Torao‐Angosto, M., Sanchez‐Vives, M.V. and Dalla Porta, L.&Dagger;</details>
+
+- [**In Vivo Neural Stimulation and Recording using Flexible Bioelectronics**](https://ieeexplore.ieee.org/document/10873414), *IEEE International Electron Devices Meeting (IEDM)*, pp. 1-4, 2024. <details><summary>Authors</summary>Liu, R.&dagger;, **Zhang, X.**, Sheng, H. and Liu, J.&Dagger;</details>
+
+- [**Benchmarking spike source localization algorithms in high density probes**](https://arxiv.org/abs/2508.13451), *arXiv*, 2508.13451, 2025. <details><summary>Authors</summary>Zhao, H.&dagger;&Dagger;, **Zhang, X.&Dagger;**,  Marin-Llobet, A., Lin, X. and Liu, J.</details>
+
+- [**Plastic-elastomer heterostructure for robust flexible brain-computer interfaces**](https://www.biorxiv.org/content/10.1101/2025.04.29.651325v1), *bioRxiv*, pp.2025-04, 2025. <details><summary>Authors</summary>Lin, X.&dagger;, **Zhang, X.**, Wang, Z., Chen, J., Lee, J., Lee, A.J., Yang, H., Remy, A., Shen, H., He, Y., Zhao, H., Zhang, X., Wang, W., Aljovic, A., Vlassak, J.J., Lu, N., Liu, J.&Dagger;</details>
+
+- [**Realigning representational drift in mouse visual cortex by flexible brain-computer interfaces**](https://www.biorxiv.org/content/10.1101/2024.05.23.595627v1), *bioRxiv*, pp.2024-05, 2024. <details><summary>Authors</summary>Zhao, S.&dagger;, Shen, H.&dagger;, Qin, S., Jiang, S., Tang, X., Lee, M., **Zhang, X.**, Lee, J., Chen, J. and Liu, J.&Dagger;</details>
+
 
 ### Bio-Inspired and Agentic AI
-- Marin-Llobet, A.&dagger;, Lin, Z.&dagger;, Baek, J.&dagger;, Aljovic, A., **Zhang, X.**, Lee, A.J., Wang, W., Lee, J., Shen, H., He, Y., Li, N., Liu, J.&Dagger;, 2025. [An AI Agent for cell-type specific brain computer interfaces](https://www.biorxiv.org/content/10.1101/2025.09.11.675660v1). bioRxiv, pp.2025-09.
-- Aljovic, A.&dagger;&Dagger;  Lin, Z.&dagger;&Dagger;, Wang, W., **Zhang, X.**, Marin-Llobet, A., Liang, N., Canales, B., Lee, J., Baek, J., Liu, R., Li, C., Li, N., Liu, J.&Dagger;, 2025, [An autonomous AI agent for universal behavior analysis](https://www.biorxiv.org/content/10.1101/2025.05.15.653585v1). bioRxiv, pp.2025-05.
-- Lin, Z.&dagger;, Wang, W.&dagger;, Marin-Llobet, A., Li, Q., Pollock, S.D., Sui, X., Almir Aljovic, Lee, J., Baek, J., Liang, N., **Zhang, X.**, Wang, C.K., Huang, J., Liu, M., Gao, Z., Sheng, H., Du, J., Lee, S.J., Wang, B., He, Y., Ding, J., Wang, X., Alvarez-Dominguez, J.R.&Dagger; and Liu, J.&Dagger;, 2025. [Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo](https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1). bioRxiv, pp.2025-04.
-- Lin, Z.&dagger;, Marin-Llobet, A.&dagger;, Baek, J., He, Y., Lee, J., Wang, W., **Zhang, X.**, Lee, A.J., Liang, N., Du, J., Ding, J., Li, N. and Liu. J.&Dagger;, 2025. [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1). bioRxiv, pp.2025-02.
-- Du, J.&dagger;, **Zhang, X.**, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.&Dagger; and Ding, J.&Dagger;, 2024. [Drift to Remember](https://arxiv.org/abs/2409.13997v1). arXiv preprint arXiv:2409.13997.
+- [**DeviceAgent: An autonomous multimodal AI agent for flexible bioelectronics.**](https://www.biorxiv.org/content/10.1101/2025.10.10.681748v1), *bioRxiv*, pp.2025-10, 2025. <details><summary>Authors</summary>Lee, J.&dagger;, Lin, Z.&dagger;, Wang, W.&dagger;, Baek, J.&dagger;, Lee, A.J., Aljovic, A., Marin-Llobet, A., **Zhang, X.**, Liu, R., Li, N. and Liu, J.&Dagger;</details>
+
+- [**An AI Agent for cell-type specific brain computer interfaces**](https://www.biorxiv.org/content/10.1101/2025.09.11.675660v1), *bioRxiv*, pp.2025-09, 2025. <details><summary>Authors</summary>Marin-Llobet, A.&dagger;, Lin, Z.&dagger;, Baek, J.&dagger;, Aljovic, A., **Zhang, X.**, Lee, A.J., Wang, W., Lee, J., Shen, H., He, Y., Li, N., Liu, J.&Dagger;</details>
+
+- [**An autonomous AI agent for universal behavior analysis**](https://www.biorxiv.org/content/10.1101/2025.05.15.653585v1), *bioRxiv*, pp.2025-05, 2025. <details><summary>Authors</summary>Aljovic, A.&dagger;&Dagger;  Lin, Z.&dagger;&Dagger;, Wang, W., **Zhang, X.**, Marin-Llobet, A., Liang, N., Canales, B., Lee, J., Baek, J., Liu, R., Li, C., Li, N., Liu, J.&Dagger;</details>
+
+- [**Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo**](https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1), *bioRxiv*, pp.2025-04, 2025. <details><summary>Authors</summary>Lin, Z.&dagger;, Wang, W.&dagger;, Marin-Llobet, A., Li, Q., Pollock, S.D., Sui, X., Almir Aljovic, Lee, J., Baek, J., Liang, N., **Zhang, X.**, Wang, C.K., Huang, J., Liu, M., Gao, Z., Sheng, H., Du, J., Lee, S.J., Wang, B., He, Y., Ding, J., Wang, X., Alvarez-Dominguez, J.R.&Dagger; and Liu, J.&Dagger;</details>
+
+- [**Spike sorting AI agent**](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1), *bioRxiv*, pp.2025-02, 2025. <details><summary>Authors</summary>Lin, Z.&dagger;, Marin-Llobet, A.&dagger;, Baek, J., He, Y., Lee, J., Wang, W., **Zhang, X.**, Lee, A.J., Liang, N., Du, J., Ding, J., Li, N. and Liu. J.&Dagger;</details>
+
+- [**Drift to Remember**](https://arxiv.org/abs/2409.13997v1), *arXiv*, 2409.13997, 2024. <details><summary>Authors</summary>Du, J.&dagger;, **Zhang, X.**, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.&Dagger; and Ding, J.&Dagger;</details>
 
 ### Miscellaneous Research
-- Tang, X.&dagger;, Zhang, J.&dagger;, He, Y.&dagger;, **Zhang, X.**, Lin, Z., Partarrieu, S., Hanna, E.B., Ren, Z., Shen, H., Yang, Y., Wang, X., Li, N., Ding, J.&Dagger; and Liu, J.&Dagger;, 2023. [Explainable multi-task learning for multi-modality biological data analysis](https://www.nature.com/articles/s41467-023-37477-x). Nature communications, 14(1), p.2546.
-- Bu, T.&dagger;, **Zhang, X.&dagger;**, Mertz, C. and Dolan, J.M.&Dagger;, 2021, September. [Carla simulated data for rare road object detection](https://ieeexplore.ieee.org/document/9564932). In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC) (pp. 2794-2801). IEEE.
-- Zhang, Y.&dagger;, **Zhang, X.**, Liu, J. and Li, N.&Dagger;, 2025. [Sample Efficient Algorithms for Linear System Identification under Noisy Observations.](https://arxiv.org/abs/2504.09057) arXiv preprint arXiv:2504.09057.
+- [**Explainable multi-task learning for multi-modality biological data analysis**](https://www.nature.com/articles/s41467-023-37477-x), *Nature communications*, 14(1), p.2546, 2023. <details><summary>Authors</summary>Tang, X.&dagger;, Zhang, J.&dagger;, He, Y.&dagger;, **Zhang, X.**, Lin, Z., Partarrieu, S., Hanna, E.B., Ren, Z., Shen, H., Yang, Y., Wang, X., Li, N., Ding, J.&Dagger; and Liu, J.&Dagger;</details>
+- [**Carla simulated data for rare road object detection**](https://ieeexplore.ieee.org/document/9564932), *IEEE International Intelligent Transportation Systems Conference (ITSC)*, pp. 2794-2801, 2021. <details><summary>Authors</summary>Bu, T.&dagger;, **Zhang, X.&dagger;**, Mertz, C. and Dolan, J.M.&Dagger;</details>
+- [**Sample Efficient Algorithms for Linear System Identification under Noisy Observations**](https://arxiv.org/abs/2504.09057), *arXiv*, 2504.09057, 2025. <details><summary>Authors</summary>Zhang, Y.&dagger;, **Zhang, X.**, Liu, J. and Li, N.&Dagger;</details>
 
 ## Awards and Honors
 - [The Eric and Wendy Schmidt Center Symposium: Biomedical Science and AI](https://www.ericandwendyschmidtcenter.org/symposia/ewsc-symposium-2025)
@@ -58,11 +71,3 @@ Currently transitioning from AI for Biology to AI for Biomedical applications. S
 - 2024 National Institutes of Health BRAIN NeuroAI Workshop (Poster)
 - 2024 Harvard University BE131 Neuroengineering (Guest lecture)
 - 2024 Harvard University BE129 Introduction to Bioelectronics (Guest lecture)
-
-## Education
-- **Harvard University**
-  - Since 2021, *Doctor of Philosophy*, Engineering Sciences
-  - 2021-2024, *Master en Route*, Engineering Sciences
-- **Carnegie Mellon University**
-  - 2019-2020, *Master of Science*, Electrical and Computer Engineering
-  - 2014-2018, *Bachelor of Science*, Electrical and Computer Engineering
