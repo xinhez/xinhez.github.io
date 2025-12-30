@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Xinhe Zhang",
+    "email": "xinhezhang@g.harvard.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://xinhez.github.io",
+    "summary": "PhD student in Electrical Engineering",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Boston, MA",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,55 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=AXDU1swAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-1223-220X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "xinhez",
+        "url": "https://github.com/xinhez"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Harvard University",
+      "area": "PhD in Electrical Engineering",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2021",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Harvard University",
+      "area": "M.S. in Electrical Engineering",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "area": "M.S. in Electrical and Computer Engineering",
+      "studyType": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "area": "B.S. in Electrical and Computer Engineering",
+      "studyType": "",
+      "startDate": "2014",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
@@ -140,13 +149,13 @@
       "description": ""
     }
   ],
-  "portfolio": [
+  "experience": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "Experience item number 1",
+      "category": "experience",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Short description of experience item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
 }
