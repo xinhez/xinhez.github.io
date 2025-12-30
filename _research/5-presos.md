@@ -1,7 +1,7 @@
 ---
 title: "Talks and Presentations"
 collection: research
-category: preso
+category: award
 permalink: /research/presentations
 ---
 

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "xinhez@"
+title                    : "xinhezhang [at] g.harvard.edu"
 title_separator          : "-"
 name                     : &name "Xinhe Zhang"
 description              : &description "Xinhe Zhang's academic page"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Boston, MA"
   employer         : "Harvard University"
   uri              : # URL
-  email            : "xinhezhang@g.harvard.edu" 
+  email            : # "xinhezhang@g.harvard.edu" 
 
   # Academic websites
   academia         : # URL
@@ -87,9 +87,7 @@ research_category:
   publication:
     title: 'Publications and Preprints'
   award:
-    title: 'Awards and Honors'
-  preso:
-    title: 'Talks and Presentations'
+    title: 'Awards and Talks'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
