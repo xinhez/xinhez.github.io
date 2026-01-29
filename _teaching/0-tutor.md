@@ -3,7 +3,7 @@ title: "Tutoring"
 collection: teaching
 type: "Academic tutor"
 permalink: /teaching/tutoring
-location: "Pittsburgh, PA"
+location: "Carnegie Mellon University, Pittsburgh, PA"
 ---
 
 - 2015-2020, College Reading and Learning Association Certified Level 2 Advanced Tutor
