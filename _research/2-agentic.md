@@ -39,5 +39,5 @@ permalink: /research/publication-bioai
     - [*arXiv*, 2024.](https://arxiv.org/abs/2409.13997v1)
     -   <details>
         <summary>Authors</summary>
-        Du, J.&dagger;, <strong>Zhang, X.</strong>, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.&Dagger; and Ding, J.&Dagger;
+        Du, J., <strong>Zhang, X.</strong>, Shen, H., Xian, X., Wang, G., Zhang, J., Yang, Y., Li, N., Liu, J.&Dagger; and Ding, J.&Dagger;
         </details>

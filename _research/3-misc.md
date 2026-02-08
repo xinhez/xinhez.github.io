@@ -15,11 +15,11 @@ permalink: /research/publication-misc
     - [*IEEE International Intelligent Transportation Systems Conference (ITSC)*, 2021.](https://ieeexplore.ieee.org/document/9564932)
     -   <details>
         <summary>Authors</summary>
-        Bu, T.&dagger;, <strong>Zhang, X.&dagger;</strong>, Mertz, C. and Dolan, J.M.&Dagger;
+        Bu, T.&dagger;, <strong>Zhang, X.&dagger;</strong>, Mertz, C. and Dolan, J.M.
         </details>
-- Error-In-Variables Methods for Efficient System Identification with Finite-Sample Guarantees
-    - [*arXiv*, 2025.](https://arxiv.org/abs/2504.09057)
+- Error-in-variables methods for efficient system identification with finite-sample guarantees
+    - [*IEEE 64th Conference on Decision and Control (CDC)*, 2025.](https://ieeexplore.ieee.org/abstract/document/11312694)
     -   <details>
         <summary>Authors</summary>
-        Zhang, Y.&dagger;, <strong>Zhang, X.</strong>, Liu, J. and Li, N.&Dagger;
+        Zhang, Y., <strong>Zhang, X.</strong>, Liu, J. and Li, N.
         </details>
