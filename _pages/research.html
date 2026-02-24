@@ -5,11 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-<div class="wordwrap">
+<!-- <div class="wordwrap">
   <p>&dagger;: Contributed equally, &Dagger;: Corresponding author(s).</p>
-</div>
-
+</div> -->
 {% include base_path %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find a relatively complete collection of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
 
 <!-- New style rendering if research categories are defined -->
 {% if site.research_category %}
