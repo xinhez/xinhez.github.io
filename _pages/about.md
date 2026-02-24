@@ -15,4 +15,4 @@ I received my undergraduate and master’s training in Electrical and Computer E
 
 When I am not working, I hunt for the best freshly roasted coffee beans in the greater Boston area. You might also find me catching a show at Central Square Theater or the Huntington Theatre.
 
-[CV updated on 2026/02/02](../files/Xinhe Zhang_CV_20260202.pdf)
+[CV updated on 2026/02/24](../files/Xinhe Zhang_CV_20260224.pdf)
