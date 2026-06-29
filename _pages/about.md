@@ -2,33 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  AI Researcher &nbsp;·&nbsp;
+  PhD Candidate, <a href="https://seas.harvard.edu/">Harvard SEAS</a> &nbsp;·&nbsp;
+  Based at <a href="https://camca.mgh.harvard.edu/">MGH</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an AI researcher and PhD candidate in Electrical Engineering at Harvard SEAS, based at Massachusetts General Hospital. I work with [Prof. Quanzheng Li](https://scholar.google.com/citations?user=MHq2z7oAAAAJ) and [Prof. Na Li](https://nali.seas.harvard.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research develops **efficient generative and multimodal models for high-dimensional biomedical data** — with a focus on 3D medical image synthesis, multimodal representation learning across electrophysiology and molecular measurements, and closed-loop AI systems for biological discovery.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before Harvard, I received BS and MS degrees in ECE from Carnegie Mellon University and worked as a software engineer at Google, Meta, and Duolingo.
+
+Outside of research, I enjoy searching for the best freshly roasted coffee beans in greater Boston and catching performances at Central Square Theater and the Huntington Theatre.
