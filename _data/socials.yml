@@ -1,9 +1,0 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/Xinhe_Zhang_CV.pdf
-email: xinhezhang@g.harvard.edu
-scholar_userid: AXDU1swAAAAJ
-github_username: xinhez
-linkedin_username: xinhez
-orcid_id: 0000-0002-1223-220X
