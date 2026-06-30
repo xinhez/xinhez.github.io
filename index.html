@@ -10,6 +10,10 @@
     <meta name="description" content="Xinhe Zhang — AI researcher developing efficient generative and multimodal models for biomedical data. PhD candidate, Harvard SEAS.">
 
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <base target="_blank">
+    <style>
+      ul li + li { margin-top: 0.8em; }
+    </style>
   </head>
 
   <body>
@@ -25,7 +29,7 @@
                   Xinhe Zhang
                 </p>
                 <p>
-                  I am an AI researcher and PhD candidate in Electrical Engineering at <a href="https://seas.harvard.edu/">Harvard SEAS</a>, based at <a href="https://camca.mgh.harvard.edu/">Massachusetts General Hospital</a>. I work with <a href="https://scholar.google.com/citations?user=MHq2z7oAAAAJ">Prof. Quanzheng Li</a> and <a href="https://nali.seas.harvard.edu/">Prof. Na Li</a>.
+                  I am an AI researcher and PhD candidate in Electrical Engineering at Harvard University, based at Massachusetts General Hospital. I work with <a href="https://nali.seas.harvard.edu/">Prof. Na Li</a> and <a href="https://scholar.google.com/citations?user=MHq2z7oAAAAJ">Prof. Quanzheng Li</a>.
                 </p>
                 <p>
                   My research develops <strong>efficient generative and multimodal models for high-dimensional biomedical data</strong> — with a focus on 3D medical image synthesis, multimodal representation learning across electrophysiology and molecular measurements, and closed-loop AI systems for biological discovery.
@@ -48,14 +52,30 @@
             </tr>
           </tbody></table>
 
+          <!-- ======= News ======= -->
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:16px;width:100%;vertical-align:middle">
+                <h2>News</h2>
+                <ul>
+                  <li><strong>Feb 2026</strong> &nbsp; Our <em>Science</em> paper on cyborg pancreatic islets was featured by <a href="https://www.eurekalert.org/news-releases/1116629">EurekAlert!</a>, <a href="https://www.genengnews.com/topics/translational-medicine/electronic-mesh-spurs-islet-cell-maturation-could-aid-diabetes-care/">GEN</a>, and <a href="https://www.biotechniques.com/bioengineering-biophysics/bionic-biology-incorporating-electrically-conductive-mesh-into-lab-grown-pancreatic-tissue/">BioTechniques</a>. It was exciting to see this work reach a broader audience and highlight how flexible bioelectronics and spatial transcriptomics can be combined to study the maturation of transplanted human islet cells.</li>
+                  <li><strong>Dec 2025</strong> &nbsp; Our <em>Science</em> paper on flexible nanoelectronics for transplanted cardiomyocytes was featured by <a href="https://medicalxpress.com/news/2025-12-soft-cyborg-cardiac-patches-stem.html">Medical Xpress</a>. This work combined bioelectronics, machine learning, and spatial transcriptomics to investigate how transplanted heart cells integrate with the host and give rise to arrhythmias.</li>
+                  <li><strong>Apr 2025</strong> &nbsp; I received Third Place for Poster Presentation at the <a href="https://www.ericandwendyschmidtcenter.org/symposia/ewsc-symposium-2025">Eric and Wendy Schmidt Center Biomedical Science &amp; AI Symposium</a>. The awarded work presented a closed-loop AI framework that combines Gaussian Process Bayesian optimization with flexible bioelectronics to automatically optimize electrical stimulation protocols for cardiac organoid maturation, reducing experimental cost while accelerating tissue development.</li>
+                  <li><strong>Nov 2024</strong> &nbsp; I was selected as an Early-Career Scholar Honoree and received Best Poster Award Runner-Up at the <a href="https://n4solutionsllc.com/brain-program-book/">NIH BRAIN NeuroAI Workshop</a>. The awarded work introduced a hierarchical generative model that jointly captures short-term stimulus-evoked neural dynamics and long-term representational drift from large-scale single-neuron recordings, with applications to NeuroAI and brain-computer interfaces.</li>
+                </ul>
+              </td>
+            </tr>
+          </tbody></table>
+
           <!-- ======= Research section heading ======= -->
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
               <td style="padding:16px;width:100%;vertical-align:middle">
                 <h2>Research</h2>
                 <p>
-                  I am broadly interested in AI methods for scientific discovery — efficient generative models, multimodal learning, and closed-loop optimization systems for biomedical data. Some papers are <span class="highlight">highlighted</span>.
+                  I am broadly interested in AI methods for scientific discovery — efficient generative models, multimodal learning, and closed-loop optimization systems for biomedical data.
                 </p>
+                <p style="font-size:small;">&dagger; Equal contribution &nbsp;&nbsp; &Dagger; Corresponding author</p>
               </td>
             </tr>
           </tbody></table>
@@ -64,13 +84,11 @@
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
             <!-- LiFT -->
-            <tr bgcolor="#ffffd0">
-              <td style="padding:16px;width:20%;vertical-align:middle">
-                <div class="one">
-                  <img src='images/lift_teaser.jpg' width=100% onerror="this.style.display='none'">
-                </div>
+            <tr>
+              <td style="padding:16px;width:35%;vertical-align:middle">
+                <img src='images/lift_teaser.jpg' style="width:100%;border-radius:4px;" onerror="this.style.display='none'">
               </td>
-              <td style="padding:8px;width:80%;vertical-align:middle">
+              <td style="padding:8px;width:65%;vertical-align:middle">
                 <a href="https://arxiv.org/abs/2605.19060">
                   <span class="papertitle">LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators</span>
                 </a>
@@ -83,8 +101,6 @@
                 <a href="https://scholar.google.com/citations?user=MHq2z7oAAAAJ">Quanzheng Li</a>
                 <br>
                 <em>arXiv</em>, 2026
-                <br>
-                <a href="https://arxiv.org/abs/2605.19060">arXiv</a>
                 <p></p>
                 <p>
                   A framework for efficient 3D medical image synthesis that learns inter-slice feature trajectories from 2D generators, achieving ~135&times; lower inference cost than comparable 3D methods. Evaluated on BraTS 2023 and SynthRAD2023 across unconditional generation, missing-modality MR synthesis, and MR-to-CT translation.
@@ -93,21 +109,19 @@
             </tr>
 
             <!-- Science 2026: islet -->
-            <tr bgcolor="#ffffd0">
-              <td style="padding:16px;width:20%;vertical-align:middle">
-                <div class="one">
-                  <img src='images/islet_teaser.jpg' width=100% onerror="this.style.display='none'">
-                </div>
+            <tr>
+              <td style="padding:16px;width:35%;vertical-align:middle">
+                <img src='images/islet_teaser.jpg' style="width:100%;border-radius:4px;" onerror="this.style.display='none'">
               </td>
-              <td style="padding:8px;width:80%;vertical-align:middle">
+              <td style="padding:8px;width:65%;vertical-align:middle">
                 <a href="https://www.science.org/doi/10.1126/science.aeb3295">
                   <span class="papertitle">Implanted flexible electronics reveal principles of human islet cell electrical maturation</span>
                 </a>
                 <br>
-                Qiang Li*,
-                Ren Liu*,
-                Zuwan Lin*,
-                <strong>Xinhe Zhang*</strong>,
+                Qiang Li&dagger;,
+                Ren Liu&dagger;,
+                Zuwan Lin&dagger;,
+                <strong>Xinhe Zhang&dagger;</strong>,
                 Wenbo Wang,
                 Israeli M. Galicia-Silva,
                 Mai Liu,
@@ -117,8 +131,6 @@
                 Jia Liu
                 <br>
                 <em>Science</em>, 2026
-                <br>
-                <a href="https://www.science.org/doi/10.1126/science.aeb3295">paper</a>
                 <p></p>
                 <p>
                   Tissue-like stretchable electronics implanted during organogenesis of human stem cell-derived pancreatic islets enable months-long, single-cell-resolved electrophysiology. Reveals maturation-dependent electrical patterns of &alpha;- and &beta;-like cells and identifies two major electrical states distinguished by glucose threshold for action potential firing.
@@ -127,20 +139,18 @@
             </tr>
 
             <!-- Science 2025: cardiac -->
-            <tr bgcolor="#ffffd0">
-              <td style="padding:16px;width:20%;vertical-align:middle">
-                <div class="one">
-                  <img src='images/cardiac_teaser.jpg' width=100% onerror="this.style.display='none'">
-                </div>
+            <tr>
+              <td style="padding:16px;width:35%;vertical-align:middle">
+                <img src='images/cardiac_teaser.jpg' style="width:100%;border-radius:4px;" onerror="this.style.display='none'">
               </td>
-              <td style="padding:8px;width:80%;vertical-align:middle">
+              <td style="padding:8px;width:65%;vertical-align:middle">
                 <a href="https://www.science.org/doi/10.1126/science.adw4612">
                   <span class="papertitle">Flexible nanoelectronics reveal arrhythmogenesis in transplanted human cardiomyocytes</span>
                 </a>
                 <br>
-                Junya Aoyama*,
-                Ren Liu*,
-                <strong>Xinhe Zhang*</strong>,
+                Junya Aoyama&dagger;,
+                Ren Liu&dagger;,
+                <strong>Xinhe Zhang&dagger;</strong>,
                 Anthony Y. Zhu,
                 Pichayathida Luanpaisanon,
                 Nivedhitha Velayutham,
@@ -159,8 +169,6 @@
                 Richard T. Lee
                 <br>
                 <em>Science</em>, 2025
-                <br>
-                <a href="https://www.science.org/doi/10.1126/science.adw4612">paper</a>
                 <p></p>
                 <p>
                   Ultra-flexible nanoelectronic meshes implanted alongside transplanted human iPSC-derived cardiomyocytes reveal arrhythmogenic electrical dynamics at single-cell resolution over weeks in vivo. Identifies how coinjection with RADA16 promotes sarcomere organization and mitigates arrhythmogenesis.
@@ -170,19 +178,17 @@
 
             <!-- Organoid BO -->
             <tr>
-              <td style="padding:16px;width:20%;vertical-align:middle">
-                <div class="one">
-                  <img src='images/organoid_teaser.jpg' width=100% onerror="this.style.display='none'">
-                </div>
+              <td style="padding:16px;width:35%;vertical-align:middle">
+                <img src='images/organoid_teaser.jpg' style="width:100%;border-radius:4px;" onerror="this.style.display='none'">
               </td>
-              <td style="padding:8px;width:80%;vertical-align:middle">
+              <td style="padding:8px;width:65%;vertical-align:middle">
                 <a href="https://www.biorxiv.org/content/10.1101/2024.12.07.627355">
                   <span class="papertitle">An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation</span>
                 </a>
                 <br>
-                Ren Liu*,
-                Zhaolin Ren*,
-                <strong>Xinhe Zhang*</strong>,
+                Ren Liu&dagger;,
+                Zhaolin Ren&dagger;,
+                <strong>Xinhe Zhang&dagger;</strong>,
                 Qiang Li,
                 Wenbo Wang,
                 Zuwan Lin,
@@ -192,8 +198,6 @@
                 Jia Liu
                 <br>
                 <em>bioRxiv</em>, 2024
-                <br>
-                <a href="https://www.biorxiv.org/content/10.1101/2024.12.07.627355">preprint</a>
                 <p></p>
                 <p>
                   A closed-loop AI platform integrating flexible bioelectronics with Gaussian Process Bayesian optimization to adaptively control electrical stimulation of cardiac organoids. Identifies optimized stimulation conditions that accelerate functional maturation, achieving ~70% higher conduction velocity than fixed-parameter baselines.
@@ -201,6 +205,135 @@
               </td>
             </tr>
 
+            <!-- CARLA -->
+            <tr>
+              <td style="padding:16px;width:35%;vertical-align:middle">
+                <img src='images/carla_teaser.jpg' style="width:100%;border-radius:4px;" onerror="this.style.display='none'">
+              </td>
+              <td style="padding:8px;width:65%;vertical-align:middle">
+                <a href="https://ieeexplore.ieee.org/document/9564932/">
+                  <span class="papertitle">CARLA Simulated Data for Rare Road Object Detection</span>
+                </a>
+                <br>
+                Tom Bu&dagger;,
+                <strong>Xinhe Zhang&dagger;</strong>,
+                Christoph Mertz,
+                John M. Dolan
+                <br>
+                <em>IEEE ITSC</em>, 2021
+                <p></p>
+                <p>
+                  Uses the CARLA simulator to generate training data for rare road object detection, improving sim-to-real transfer for autonomous driving perception.
+                </p>
+              </td>
+            </tr>
+
+          </tbody></table>
+
+          <!-- ======= Publications ======= -->
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:16px;width:100%;vertical-align:middle">
+                <h2>All Publications/Preprints</h2>
+                <ol reversed>
+                  <li>
+                    <a href="https://arxiv.org/abs/2605.19060">LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators</a><br>
+                    <strong>X. Zhang</strong>, Y. Zhang, P. Jin, A. Marin-Llobet, N. Li, Q. Li<br>
+                    <em>arXiv</em>, 2026
+                  </li>
+                  <li>
+                    <a href="https://doi.org/10.1371/journal.pcbi.1014059">Benchmarking spike source localization algorithms in high density probes</a><br>
+                    H. Zhao&Dagger;, <strong>X. Zhang&Dagger;</strong>, A. Marin-Llobet, X. Lin, J. Liu<br>
+                    <em>PLOS Computational Biology</em>, 2026
+                  </li>
+                  <li>
+                    <a href="https://www.science.org/doi/10.1126/science.aeb3295">Implanted flexible electronics reveal principles of human islet cell electrical maturation</a><br>
+                    Q. Li&dagger;, R. Liu&dagger;, Z. Lin&dagger;, <strong>X. Zhang&dagger;</strong>, W. Wang, I. M. Galicia-Silva, M. Liu, Z. Gao, S. D. Pollock, J. R. Alvarez-Dominguez&Dagger;, J. Liu&Dagger;<br>
+                    <em>Science</em>, 2026
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.64898/2026.02.16.705931v1">Growth-adaptive spring electronics for long-term, same-neuron mapping in the developing rat brain</a><br>
+                    A. J. Lee&dagger;, H. Sheng&dagger;, A. Marin-Llobet, Z. Wang, J. Lee, R. Liu, <strong>X. Zhang</strong>, E. Hsiao, J. Baek, A. Aljovic, D. Liu, Y. He, N. Lu, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2026
+                  </li>
+                  <li>
+                    <a href="https://arxiv.org/abs/2504.09057">Error-in-variables methods for efficient system identification with finite-sample guarantees</a><br>
+                    Y. Zhang, <strong>X. Zhang</strong>, J. Liu, N. Li<br>
+                    <em>IEEE CDC</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.science.org/doi/10.1126/science.adw4612">Flexible nanoelectronics reveal arrhythmogenesis in transplanted human cardiomyocytes</a><br>
+                    J. Aoyama&dagger;, R. Liu&dagger;, <strong>X. Zhang&dagger;</strong>, A. Y. Zhu, P. Luanpaisanon, N. Velayutham, J. C. Garbern, F. Cao, I. Barrera, H. Fandl, M. Sokol, S. Dasariraju, E. S. Gil, E. Aleksi, T. Amanuma, J. J. Saucerman, F. Chen, J. Liu&Dagger;, R. T. Lee&Dagger;<br>
+                    <em>Science</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://doi.org/10.1002/aisy.202500480">Riemannian geometry for the classification of brain states with intracortical brain recordings</a><br>
+                    A. Marin-Llobet&Dagger;, S. Sánchez-Manso, A. Manasanch, L. Tresserras, <strong>X. Zhang</strong>, Y. Hua, H. Zhao, M. Torao-Angosto, M. V. Sanchez-Vives&Dagger;, L. Dalla Porta&Dagger;<br>
+                    <em>Advanced Intelligent Systems</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2025.05.15.653585v1">An autonomous AI agent for universal behavior analysis</a><br>
+                    A. Aljović&dagger;, Z. Lin&dagger;, W. Wang, <strong>X. Zhang</strong>, A. Marin-Llobet, N. Liang, B. Canales, J. Lee, J. Baek, R. Liu, C. Li, N. Li, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2025.04.29.651325v1">Plastic-elastomer heterostructure for robust flexible brain-computer interfaces</a><br>
+                    X. Lin, <strong>X. Zhang</strong>, Z. Wang, J. Chen, J. Lee, A. J. Lee, H. Yang, A. Remy, H. Shen, Y. He, H. Zhao, X. Zhang, W. Wang, A. Aljović, J. J. Vlassak, N. Lu, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1">Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo</a><br>
+                    Z. Lin&dagger;, W. Wang&dagger;, A. Marin-Llobet, Q. Li, S. D. Pollock, X. Sui, A. Aljovic, J. Lee, J. Baek, N. Liang, <strong>X. Zhang</strong>, C. K. Wang, J. Huang, M. Liu, Z. Gao, H. Sheng, J. Du, S. J. Lee, B. Wang, Y. He, J. Ding, X. Wang, J. R. Alvarez-Dominguez&Dagger;, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1">Spike sorting AI agent</a><br>
+                    Z. Lin&dagger;, A. Marin-Llobet&dagger;, J. Baek, Y. He, J. Lee, W. Wang, <strong>X. Zhang</strong>, A. J. Lee, N. Liang, J. Du, J. Ding, N. Li, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2025.10.10.681748v1">DeviceAgent: An autonomous multimodal AI agent for flexible bioelectronics</a><br>
+                    J. Lee&dagger;, Z. Lin&dagger;, W. Wang&dagger;, J. Baek&dagger;, A. J. Lee, A. Aljović, A. Marin-Llobet, <strong>X. Zhang</strong>, R. Liu, N. Li, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2025.09.11.675660v1">An AI Agent for cell-type specific brain computer interfaces</a><br>
+                    A. Marin-Llobet&dagger;, Z. Lin&dagger;, J. Baek&dagger;, A. Aljovic, <strong>X. Zhang</strong>, A. J. Lee, W. Wang, J. Lee, H. Shen, Y. He, N. Li, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2025
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2024.12.07.627355">An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation</a><br>
+                    R. Liu&dagger;, Z. Ren&dagger;, <strong>X. Zhang&dagger;</strong>, Q. Li, W. Wang, Z. Lin, R. T. Lee, J. Ding, N. Li&Dagger;, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2024
+                  </li>
+                  <li>
+                    <a href="https://ieeexplore.ieee.org/document/10873414/">In vivo neural stimulation and recording using flexible bioelectronics</a><br>
+                    R. Liu, <strong>X. Zhang</strong>, H. Sheng, J. Liu&Dagger;<br>
+                    <em>IEEE IEDM</em>, 2024
+                  </li>
+                  <li>
+                    <a href="https://arxiv.org/abs/2409.13997">Drift to remember</a><br>
+                    J. Du, <strong>X. Zhang</strong>, H. Shen, X. Xian, G. Wang, J. Zhang, Y. Yang, N. Li, J. Liu, J. Ding&Dagger;<br>
+                    <em>arXiv</em>, 2024
+                  </li>
+                  <li>
+                    <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595627v1">Realigning representational drift in mouse visual cortex by flexible brain-machine interfaces</a><br>
+                    S. Zhao&dagger;, H. Shen&dagger;, S. Qin, S. Jiang, X. Tang, M. Lee, <strong>X. Zhang</strong>, J. Lee, J. Chen, J. Liu&Dagger;<br>
+                    <em>bioRxiv</em>, 2024
+                  </li>
+                  <li>
+                    <a href="https://www.nature.com/articles/s41467-023-38114-3">Explainable multi-task learning for multi-modality biological data analysis</a><br>
+                    X. Tang&dagger;, J. Zhang&dagger;, Y. He&dagger;, <strong>X. Zhang</strong>, Z. Lin, S. Partarrieu, E. B. Hanna, Z. Ren, H. Shen, Y. Yang, X. Wang, N. Li, J. Ding&Dagger;, J. Liu&Dagger;<br>
+                    <em>Nature Communications</em>, 2023
+                  </li>
+                  <li>
+                    <a href="https://ieeexplore.ieee.org/document/9564932/">CARLA Simulated Data for Rare Road Object Detection</a><br>
+                    T. Bu&dagger;, <strong>X. Zhang&dagger;</strong>, C. Mertz, J. M. Dolan<br>
+                    <em>IEEE ITSC</em>, 2021
+                  </li>
+                </ol>
+              </td>
+            </tr>
           </tbody></table>
 
           <!-- ======= Footer ======= -->
