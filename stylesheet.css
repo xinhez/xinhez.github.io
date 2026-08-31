@@ -314,6 +314,8 @@ a { color: var(--accent); }
   margin: 0 0 1.5rem;
 }
 
+/* the identity now leads this line, so it outranks the address */
+.role-focus { color: var(--muted); }
 .role-email { white-space: nowrap; }
 
 .bio { margin: 0 0 1rem; color: var(--muted); }
@@ -326,7 +328,7 @@ a { color: var(--accent); }
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  gap: .9rem;
+  gap: 1.6rem;
   border-right: 1px solid var(--rule);
   padding-right: 1.35rem;
   /* nudges the photo's top edge onto the name's cap-height */
