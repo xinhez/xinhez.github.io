@@ -30,7 +30,7 @@
   --cat-agents:     #2f7d4f;
   --cat-compbio:    #b0455f;
 
-  --measure: 46rem;
+  --measure: 49.333rem;   /* 888px at the 18px root */
   --radius: 12px;
   --ease: cubic-bezier(.22, 1, .36, 1);
   --shadow: 0 6px 22px rgba(20, 20, 30, .07);
@@ -89,6 +89,8 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
+  /* one knob for the whole type scale: every size below is in rem */
+  font-size: 18px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
 }
@@ -98,7 +100,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font-sans);
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.62;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -281,9 +283,20 @@ a { color: var(--accent); }
 .hero {
   padding-top: 3.5rem;
   display: grid;
-  grid-template-columns: 150px 1fr;
+  /* rem so the rail and photo scale with the type scale */
+  grid-template-columns: 9.5rem 1fr;
   gap: 2rem;
   align-items: start;
+}
+
+.hero-photo-btn {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  border-radius: 50%;
+  cursor: zoom-in;
 }
 
 .hero-photo {
@@ -298,7 +311,7 @@ a { color: var(--accent); }
 
 .name {
   font-family: var(--font-serif);
-  font-size: 36px;
+  font-size: 42px;
   font-weight: 500;
   line-height: 1.1;
   letter-spacing: -.02em;
@@ -328,11 +341,11 @@ a { color: var(--accent); }
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  gap: 1.6rem;
+  gap: 1.15rem;
   border-right: 1px solid var(--rule);
   padding-right: 1.35rem;
-  /* nudges the photo's top edge onto the name's cap-height */
-  margin-top: .3rem;
+  /* sits the photo's top edge slightly above the name's cap-height */
+  margin-top: -.65rem;
 }
 
 .social-list {
