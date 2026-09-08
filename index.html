@@ -53,7 +53,10 @@
       }
       img { max-width: 100%; height: auto; display: block; }
       .wrap { max-width: 49.333rem; margin-inline: auto; padding: 0 1.5rem; }
-      .hero-photo { width: 100%; max-width: 190px; aspect-ratio: 1; border-radius: 50%; object-fit: cover; }
+      /* cap the wrapper, not the image - a max-width here clamps the img inside
+         its centred button and shifts it off-centre */
+      .hero-photo-btn { width: 100%; max-width: 230px; padding: 0; border: 0; background: none; }
+      .hero-photo { width: 100%; aspect-ratio: 1; border-radius: 50%; object-fit: cover; }
       .card-figure { width: 100%; padding: 0; border: 0; background: none; }
       .card-figure img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
       [hidden] { display: none !important; }
@@ -107,7 +110,7 @@
       <section class="hero">
         <div class="hero-text">
           <h1 class="name">Xinhe Zhang</h1>
-          <p class="role"><span class="role-email">xinhezhang [at] g.harvard.edu</span> · <span class="role-focus">Generative &amp; Multimodal AI</span></p>
+          <p class="role"><span class="role-email">xinhezhang [at] g.harvard.edu</span><span class="role-sep"> · </span><span class="role-focus">Generative &amp; Multimodal AI</span></p>
 
           <p class="bio">
             I am an AI researcher and PhD candidate in Electrical and Computer Engineering at
@@ -132,25 +135,25 @@
 
           <ul class="social-list">
             <li>
-              <a class="social-item" href="https://scholar.google.com/citations?user=AXDU1swAAAAJ">
+              <a class="social-item" href="https://scholar.google.com/citations?user=AXDU1swAAAAJ" aria-label="Google Scholar">
                 <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.242 13.769 0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269ZM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14Z"/></svg>
                 <span>Scholar</span>
               </a>
             </li>
             <li>
-              <a class="social-item" href="https://github.com/xinhez">
+              <a class="social-item" href="https://github.com/xinhez" aria-label="GitHub">
                 <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
                 <span>GitHub</span>
               </a>
             </li>
             <li>
-              <a class="social-item" href="https://linkedin.com/in/xinhez">
+              <a class="social-item" href="https://linkedin.com/in/xinhez" aria-label="LinkedIn">
                 <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.86 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.47-.9 1.63-1.85 3.36-1.85 3.59 0 4.26 2.37 4.26 5.45v6.29ZM5.34 7.43a2.07 2.07 0 1 1 0-4.13 2.07 2.07 0 0 1 0 4.13Zm1.78 13.02H3.56V9h3.56v11.45ZM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0Z"/></svg>
                 <span>LinkedIn</span>
               </a>
             </li>
             <li>
-              <a class="social-item" href="https://orcid.org/0000-0002-1223-220X">
+              <a class="social-item" href="https://orcid.org/0000-0002-1223-220X" aria-label="ORCID">
                 <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C5.37 0 0 5.37 0 12s5.37 12 12 12 12-5.37 12-12S18.63 0 12 0ZM7.37 4.38c.52 0 .95.43.95.95 0 .52-.43.95-.95.95a.95.95 0 0 1-.95-.95c0-.52.43-.95.95-.95Zm-.72 3.04h1.44v10.04H6.65V7.42Zm3.56 0h3.9c3.71 0 5.35 2.65 5.35 5.02 0 2.58-2.02 5.02-5.33 5.02h-3.92V7.42Zm1.45 1.3v7.45h2.3c2.35 0 3.92-1.3 3.92-3.72 0-2.02-1.28-3.72-3.92-3.72h-2.3Z"/></svg>
                 <span>ORCID</span>
               </a>

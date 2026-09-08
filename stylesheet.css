@@ -384,18 +384,70 @@ a { color: var(--accent); }
 .social-item:hover svg { color: var(--accent); }
 
 @media (max-width: 640px) {
+  /* the desktop root is 18px, which is oversized on a phone and forces the
+     bio down to ~40 characters a line */
+  html { font-size: 17px; }
+
+  .wrap { padding: 0 1.25rem; }
+  main.wrap { gap: 3rem; padding-bottom: 3rem; }
+
+  /* Both wrappers dissolve so every hero piece can be ordered on its own:
+     photo, name, email + field, icon row, then the bio. Their boxes - and so
+     the rail divider, its negative offset and padding - disappear with them. */
   .hero {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-    padding-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;                     /* spacing set per item below */
+    padding-top: 2rem;
   }
-  .hero-photo { width: 104px; }
-  .hero-media {
-    border-right: 0;
-    padding-right: 0;
-    margin-top: 0;
-    align-items: flex-start;
+
+  .hero-media,
+  .hero-text { display: contents; }
+
+  /* prominent on a phone, capped so it does not balloon near the breakpoint */
+  .hero-photo-btn {
+    order: 1;
+    width: min(60%, 230px);
+    margin: 0 auto 1.1rem;
   }
+
+  .name {
+    order: 2;
+    font-size: 34px;
+    text-align: center;
+    margin: 0 0 .35rem;
+  }
+
+  .role {
+    order: 3;
+    font-size: .8rem;
+    text-align: center;
+    margin: 0 0 1rem;
+  }
+
+  /* the field sits on its own line, so the middot between them is redundant */
+  .role-sep { display: none; }
+  .role-focus { display: block; white-space: nowrap; }
+
+  /* icons only, centred, directly under the field */
+  .social-list {
+    order: 4;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.6rem;
+    margin: 0 0 1.85rem;
+  }
+
+  /* scoped to the rail: the Resume link in the callout shares .social-item
+     and must keep its label */
+  .social-list .social-item { gap: 0; padding: .2rem; }
+  .social-list .social-item span { display: none; }   /* aria-label carries the name */
+  .social-list .social-item svg { width: 22px; height: 22px; }
+
+  .bio { order: 5; margin: 0 0 1rem; }
+  .bio:last-child { margin-bottom: 0; }
 }
 
 /* --------------------------------------------------------------- callout */
@@ -439,8 +491,17 @@ a { color: var(--accent); }
   padding-top: .28em;
 }
 
-@media (max-width: 560px) {
-  .availability { flex-direction: column; gap: .4rem; }
+@media (max-width: 640px) {
+  .availability { flex-direction: column; gap: .8rem; }
+
+  /* tagline left, Resume pinned right, sharing the top line of the box */
+  .availability-aside {
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+  .availability .tagline { padding-top: 0; }
 }
 
 /* --------------------------------------------------------------- sections */
