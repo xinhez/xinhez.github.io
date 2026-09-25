@@ -450,60 +450,6 @@ a { color: var(--accent); }
   .bio:last-child { margin-bottom: 0; }
 }
 
-/* --------------------------------------------------------------- callout */
-
-.availability {
-  display: flex;
-  gap: .85rem;
-  padding: .95rem 1.1rem;
-  border: 1px solid var(--rule);
-  border-left: 2px solid var(--accent);
-  border-radius: var(--radius);
-  background: var(--surface);
-  font-size: .92rem;
-  line-height: 1.55;
-  color: var(--muted);
-}
-
-.availability-body {
-  display: flex;
-  flex-direction: column;
-  gap: .5rem;
-}
-
-.availability-body p { margin: 0; }
-
-.availability-aside {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: .55rem;
-  flex: none;
-}
-
-.availability .tagline {
-  font-family: var(--font-mono);
-  font-size: .62rem;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-  color: var(--accent);
-  white-space: nowrap;
-  padding-top: .28em;
-}
-
-@media (max-width: 640px) {
-  .availability { flex-direction: column; gap: .8rem; }
-
-  /* tagline left, Resume pinned right, sharing the top line of the box */
-  .availability-aside {
-    flex-direction: row;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 1rem;
-  }
-  .availability .tagline { padding-top: 0; }
-}
-
 /* --------------------------------------------------------------- sections */
 
 .section-head {
