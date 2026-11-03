@@ -29,6 +29,7 @@
   --cat-multimodal: #a8590f;
   --cat-agents:     #2f7d4f;
   --cat-compbio:    #b0455f;
+  --cat-interp:     #0f766e;
 
   --measure: 49.333rem;   /* 888px at the 18px root */
   --radius: 12px;
@@ -56,6 +57,7 @@
     --cat-multimodal: #e0a05c;
     --cat-agents:     #6cc48e;
     --cat-compbio:    #e88ba0;
+    --cat-interp:     #5ec8bd;
 
     --shadow: 0 6px 22px rgba(0, 0, 0, .38);
   }
@@ -80,6 +82,7 @@
   --cat-multimodal: #e0a05c;
   --cat-agents:     #6cc48e;
   --cat-compbio:    #e88ba0;
+  --cat-interp:     #5ec8bd;
 
   --shadow: 0 6px 22px rgba(0, 0, 0, .38);
 }
@@ -504,6 +507,7 @@ a { color: var(--accent); }
 .badge[data-cat="multimodal"]      { --badge-c: var(--cat-multimodal); }
 .badge[data-cat="agents"]          { --badge-c: var(--cat-agents); }
 .badge[data-cat="comp-bio"]        { --badge-c: var(--cat-compbio); }
+.badge[data-cat="interpretability"] { --badge-c: var(--cat-interp); }
 .badge[data-kind="award"]          { --badge-c: #b07d00; }
 .badge[data-kind="press"]          { --badge-c: var(--cat-cv); }
 .badge[data-kind="paper"]          { --badge-c: var(--faint); }
@@ -687,7 +691,7 @@ a { color: var(--accent); }
 }
 
 /* Each chip carries its category's hue, matching the badges on the entries.
-   --btn-c defaults to the accent, so Selected / All stay indigo. */
+   --btn-c defaults to the accent, so Featured / All stay indigo. */
 .filter-btn {
   --btn-c: var(--accent);
   font-family: var(--font-mono);
@@ -718,6 +722,7 @@ a { color: var(--accent); }
 .filter-btn[data-filter="multimodal"]      { --btn-c: var(--cat-multimodal); }
 .filter-btn[data-filter="agents"]          { --btn-c: var(--cat-agents); }
 .filter-btn[data-filter="comp-bio"]        { --btn-c: var(--cat-compbio); }
+.filter-btn[data-filter="interpretability"] { --btn-c: var(--cat-interp); }
 
 .pub-list {
   list-style: none;

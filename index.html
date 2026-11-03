@@ -113,7 +113,7 @@
           <p class="role"><span class="role-email">xinhezhang [at] g.harvard.edu</span><span class="role-sep"> · </span><span class="role-focus">Generative &amp; Multimodal AI</span></p>
 
           <p class="bio">
-            I am an AI researcher and PhD candidate in Electrical and Computer Engineering at
+            I am a PhD candidate in Electrical and Computer Engineering at
             <a class="link" href="https://seas.harvard.edu/">Harvard University</a>, based at
             <a class="link" href="https://camca.mgh.harvard.edu/">Massachusetts General Hospital</a>,
             where I work with
@@ -124,7 +124,9 @@
 
           <p class="bio">
             Before Harvard, I received BS and MS degrees in Electrical and Computer Engineering from
-            Carnegie Mellon University, and worked as a software engineer at Google, Meta, Duolingo, and JP Morgan Chase.
+            Carnegie Mellon University, where I worked with
+            <a class="link" href="https://users.ece.cmu.edu/~pgrover/">Prof.&nbsp;Pulkit&nbsp;Grover</a> and
+            <a class="link" href="https://www.ri.cmu.edu/ri-people/christoph-mertz/">Dr.&nbsp;Christoph&nbsp;Mertz</a>.
           </p>
         </div>
 
@@ -252,11 +254,11 @@
         <button class="show-more" id="news-toggle" type="button">Show all news &darr;</button>
       </section>
 
-      <!-- ============================== selected research ============================== -->
+      <!-- ============================== featured research ============================== -->
       <section id="research" class="reveal">
         <div class="section-head">
           <span class="section-index">02</span>
-          <h2 class="section-title">Selected Research</h2>
+          <h2 class="section-title">Featured Research</h2>
         </div>
 
         <div class="cards">
@@ -266,7 +268,7 @@
               <img src="images/lift_teaser.jpg" alt="LiFT: lifted inter-slice feature trajectories" loading="lazy">
             </button>
             <div>
-              <a class="card-title" href="https://arxiv.org/abs/2605.19060">LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators</a>
+              <a class="card-title" href="https://xinhez.github.io/lift/">Efficient Factorized Volume Synthesis with Lifted Inter-Slice Feature Trajectories</a>
               <p class="card-venue">NeurIPS · 2026</p>
               <p class="card-body">
                 <span class="mark">Efficient 3D medical image synthesis</span> by learning inter-slice
@@ -352,26 +354,47 @@
         </div>
 
         <div class="filters" id="pub-filters">
-          <button class="filter-btn is-active" type="button" data-filter="selected">Selected</button>
+          <button class="filter-btn is-active" type="button" data-filter="featured">Featured</button>
           <button class="filter-btn" type="button" data-filter="all">All</button>
-          <button class="filter-btn" type="button" data-filter="computer-vision">Computer Vision</button>
-          <button class="filter-btn" type="button" data-filter="generative">Generative AI</button>
+          <button class="filter-btn" type="button" data-filter="computer-vision">Vision</button>
+          <button class="filter-btn" type="button" data-filter="generative">Generative</button>
           <button class="filter-btn" type="button" data-filter="multimodal">Multimodal</button>
           <button class="filter-btn" type="button" data-filter="agents">AI Agents</button>
-          <button class="filter-btn" type="button" data-filter="comp-bio">Comp Bio</button>
+          <button class="filter-btn" type="button" data-filter="comp-bio">Biomedical</button>
+          <button class="filter-btn" type="button" data-filter="interpretability">Interpretability</button>
         </div>
 
         <ul class="pub-list" id="pub-list">
 
-          <li class="pub-item" data-cats="computer-vision generative" data-selected>
-            <a class="pub-title" href="https://arxiv.org/abs/2605.19060">LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators</a>
+          <li class="pub-item" data-cats="interpretability">
+            <a class="pub-title" href="https://arxiv.org/abs/2610.40328">Factorized Representations of Concurrent Temporal Variables in Pretrained Language Models</a>
+            <p class="pub-authors"><strong>X. Zhang</strong>, A. Marin-Llobet</p>
+            <p class="pub-venue">NeurReps Workshop, NeurIPS · 2026</p>
+            <div class="pub-foot">
+              <span class="pub-badges">
+                <span class="badge" data-cat="interpretability">Interpretability</span>
+              </span>
+              <a class="mlink" href="https://arxiv.org/abs/2610.40328">arXiv</a>
+              <button class="tldr-btn" type="button">tl;dr +</button>
+            </div>
+            <p class="pub-tldr" hidden>
+              Shows that pretrained language models track two independently evolving contextual timers in
+              overlapping hidden states: each timer stays linearly decodable, and removing one timer's
+              centroid plane suppresses access to that variable while leaving the concurrent one largely
+              intact. The pattern holds from 3 to 51 timer values and across Qwen3 checkpoints.
+            </p>
+          </li>
+
+          <li class="pub-item" data-cats="computer-vision generative" data-featured>
+            <a class="pub-title" href="https://arxiv.org/abs/2605.19060">Efficient Factorized Volume Synthesis with Lifted Inter-Slice Feature Trajectories</a>
             <p class="pub-authors"><strong>X. Zhang</strong>, Y. Zhang, P. Jin, A. Marin-Llobet, N. Li, Q. Li</p>
             <p class="pub-venue">NeurIPS · 2026</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="computer-vision">Computer Vision</span>
-                <span class="badge" data-cat="generative">Generative AI</span>
+                <span class="badge" data-cat="computer-vision">Vision</span>
+                <span class="badge" data-cat="generative">Generative</span>
               </span>
+              <a class="mlink" href="https://xinhez.github.io/lift/">Project page</a>
               <a class="mlink" href="https://arxiv.org/abs/2605.19060">arXiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
             </div>
@@ -388,9 +411,9 @@
             <p class="pub-venue">Nature Biomedical Engineering · 2026</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="computer-vision">Computer Vision</span>
+                <span class="badge" data-cat="computer-vision">Vision</span>
                 <span class="badge" data-cat="multimodal">Multimodal</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.nature.com/articles/s41551-026-01780-x">Nature BME</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -407,7 +430,7 @@
             <p class="pub-venue">PLOS Computational Biology · 2026</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://doi.org/10.1371/journal.pcbi.1014059">PLOS CB</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -419,14 +442,14 @@
             </p>
           </li>
 
-          <li class="pub-item" data-cats="multimodal comp-bio" data-selected>
+          <li class="pub-item" data-cats="multimodal comp-bio" data-featured>
             <a class="pub-title" href="https://www.science.org/doi/10.1126/science.aeb3295">Implanted flexible electronics reveal principles of human islet cell electrical maturation</a>
             <p class="pub-authors">Q. Li&dagger;, R. Liu&dagger;, Z. Lin&dagger;, <strong>X. Zhang&dagger;</strong>, W. Wang, I. M. Galicia-Silva, M. Liu, Z. Gao, S. D. Pollock, J. R. Alvarez-Dominguez&Dagger;, J. Liu&Dagger;</p>
             <p class="pub-venue">Science · 2026</p>
             <div class="pub-foot">
               <span class="pub-badges">
                 <span class="badge" data-cat="multimodal">Multimodal</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.science.org/doi/10.1126/science.aeb3295">Science</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -443,7 +466,7 @@
             <p class="pub-venue">bioRxiv · 2026</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.biorxiv.org/content/10.64898/2026.02.16.705931v1">bioRxiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -469,14 +492,14 @@
             </p>
           </li>
 
-          <li class="pub-item" data-cats="multimodal comp-bio" data-selected>
+          <li class="pub-item" data-cats="multimodal comp-bio" data-featured>
             <a class="pub-title" href="https://www.science.org/doi/10.1126/science.adw4612">Flexible nanoelectronics reveal arrhythmogenesis in transplanted human cardiomyocytes</a>
             <p class="pub-authors">J. Aoyama&dagger;, R. Liu&dagger;, <strong>X. Zhang&dagger;</strong>, A. Y. Zhu, P. Luanpaisanon, N. Velayutham, J. C. Garbern, F. Cao, I. Barrera, H. Fandl, M. Sokol, S. Dasariraju, E. S. Gil, E. Aleksi, T. Amanuma, J. J. Saucerman, F. Chen, J. Liu&Dagger;, R. T. Lee&Dagger;</p>
             <p class="pub-venue">Science · 2025</p>
             <div class="pub-foot">
               <span class="pub-badges">
                 <span class="badge" data-cat="multimodal">Multimodal</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.science.org/doi/10.1126/science.adw4612">Science</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -493,7 +516,7 @@
             <p class="pub-venue">Advanced Intelligent Systems · 2025</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://doi.org/10.1002/aisy.202500480">DOI</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -527,7 +550,7 @@
             <p class="pub-venue">bioRxiv · 2025</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.biorxiv.org/content/10.1101/2025.04.29.651325v1">bioRxiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -546,7 +569,7 @@
               <span class="pub-badges">
                 <span class="badge" data-cat="multimodal">Multimodal</span>
                 <span class="badge" data-cat="agents">AI Agents</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1">bioRxiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -564,7 +587,7 @@
             <div class="pub-foot">
               <span class="pub-badges">
                 <span class="badge" data-cat="agents">AI Agents</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1">bioRxiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -583,7 +606,7 @@
               <span class="pub-badges">
                 <span class="badge" data-cat="multimodal">Multimodal</span>
                 <span class="badge" data-cat="agents">AI Agents</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.biorxiv.org/content/10.1101/2025.10.10.681748v1">bioRxiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -602,7 +625,7 @@
               <span class="pub-badges">
                 <span class="badge" data-cat="multimodal">Multimodal</span>
                 <span class="badge" data-cat="agents">AI Agents</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.biorxiv.org/content/10.1101/2025.09.11.675660v1">bioRxiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -613,14 +636,14 @@
             </p>
           </li>
 
-          <li class="pub-item" data-cats="multimodal comp-bio" data-selected>
+          <li class="pub-item" data-cats="multimodal comp-bio" data-featured>
             <a class="pub-title" href="https://www.biorxiv.org/content/10.1101/2024.12.07.627355">An AI-Cyborg System for Adaptive Intelligent Modulation of Organoid Maturation</a>
             <p class="pub-authors">R. Liu&dagger;, Z. Ren&dagger;, <strong>X. Zhang&dagger;</strong>, Q. Li, W. Wang, Z. Lin, R. T. Lee, J. Ding, N. Li&Dagger;, J. Liu&Dagger;</p>
             <p class="pub-venue">bioRxiv · 2024</p>
             <div class="pub-foot">
               <span class="pub-badges">
                 <span class="badge" data-cat="multimodal">Multimodal</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.biorxiv.org/content/10.1101/2024.12.07.627355">bioRxiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -637,7 +660,7 @@
             <p class="pub-venue">IEEE IEDM · 2024</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://ieeexplore.ieee.org/document/10873414/">IEEE</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -654,8 +677,8 @@
             <p class="pub-venue">arXiv · 2024</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="computer-vision">Computer Vision</span>
-                <span class="badge" data-cat="generative">Generative AI</span>
+                <span class="badge" data-cat="computer-vision">Vision</span>
+                <span class="badge" data-cat="generative">Generative</span>
               </span>
               <a class="mlink" href="https://arxiv.org/abs/2409.13997">arXiv</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -673,9 +696,9 @@
             <p class="pub-venue">Nature Communications · 2023</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="computer-vision">Computer Vision</span>
+                <span class="badge" data-cat="computer-vision">Vision</span>
                 <span class="badge" data-cat="multimodal">Multimodal</span>
-                <span class="badge" data-cat="comp-bio">Comp Bio</span>
+                <span class="badge" data-cat="comp-bio">Biomedical</span>
               </span>
               <a class="mlink" href="https://www.nature.com/articles/s41467-023-37477-x">Nature Comms</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -686,14 +709,14 @@
             </p>
           </li>
 
-          <li class="pub-item" data-cats="computer-vision generative" data-selected>
+          <li class="pub-item" data-cats="computer-vision generative" data-featured>
             <a class="pub-title" href="https://ieeexplore.ieee.org/document/9564932/">CARLA Simulated Data for Rare Road Object Detection</a>
             <p class="pub-authors">T. Bu&dagger;, <strong>X. Zhang&dagger;</strong>, C. Mertz, J. M. Dolan</p>
             <p class="pub-venue">IEEE ITSC · 2021</p>
             <div class="pub-foot">
               <span class="pub-badges">
-                <span class="badge" data-cat="computer-vision">Computer Vision</span>
-                <span class="badge" data-cat="generative">Generative AI</span>
+                <span class="badge" data-cat="computer-vision">Vision</span>
+                <span class="badge" data-cat="generative">Generative</span>
               </span>
               <a class="mlink" href="https://ieeexplore.ieee.org/document/9564932/">IEEE</a>
               <button class="tldr-btn" type="button">tl;dr +</button>
@@ -830,7 +853,7 @@
         pubItems.forEach(function (li) {
           var match =
             key === 'all' ? true :
-            key === 'selected' ? li.hasAttribute('data-selected') :
+            key === 'featured' ? li.hasAttribute('data-featured') :
             (li.dataset.cats || '').split(' ').indexOf(key) !== -1;
           li.hidden = !match;
           if (match) shown++;
@@ -847,7 +870,7 @@
         applyFilter(btn.dataset.filter);
       });
 
-      applyFilter('selected');
+      applyFilter('featured');
 
       /* ---- lightbox for research figures ---- */
       var lb = document.getElementById('lightbox');
